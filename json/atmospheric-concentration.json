@@ -1,0 +1,1307 @@
+[
+  {
+    "Year": 1750,
+    "Value": 278,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1755,
+    "Value": 278,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1760,
+    "Value": 278,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1765,
+    "Value": 278,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1770,
+    "Value": 278.6,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1775,
+    "Value": 279.3,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1780,
+    "Value": 280.1,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1785,
+    "Value": 280.8,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1790,
+    "Value": 281.6,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1795,
+    "Value": 282.3,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1800,
+    "Value": 282.9,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1805,
+    "Value": 283.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1810,
+    "Value": 283.8,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1815,
+    "Value": 284,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1820,
+    "Value": 284.2,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1825,
+    "Value": 284.3,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1830,
+    "Value": 284.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1835,
+    "Value": 283.8,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1840,
+    "Value": 283.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1845,
+    "Value": 283.9,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1850,
+    "Value": 284.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1855,
+    "Value": 285.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1860,
+    "Value": 286.2,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1865,
+    "Value": 286.9,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1870,
+    "Value": 287.5,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1875,
+    "Value": 288.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1880,
+    "Value": 290.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1885,
+    "Value": 293,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1890,
+    "Value": 294.2,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1895,
+    "Value": 294.8,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1900,
+    "Value": 295.8,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1905,
+    "Value": 297.6,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1910,
+    "Value": 299.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1915,
+    "Value": 301.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1920,
+    "Value": 303,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1925,
+    "Value": 305,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1930,
+    "Value": 307.2,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1935,
+    "Value": 309.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1940,
+    "Value": 310.4,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1945,
+    "Value": 310.1,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1950,
+    "Value": 310.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1955,
+    "Value": 313,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1960,
+    "Value": 316.9,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1965,
+    "Value": 320,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1970,
+    "Value": 325,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1975,
+    "Value": 331.3,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1978,
+    "Value": 334.6,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1979,
+    "Value": 336.74,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1980,
+    "Value": 338.7,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1981,
+    "Value": 339.74,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1982,
+    "Value": 340.92,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1983,
+    "Value": 342.47,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1984,
+    "Value": 344.13,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1985,
+    "Value": 345.47,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1986,
+    "Value": 346.89,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1987,
+    "Value": 348.46,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1988,
+    "Value": 350.93,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1989,
+    "Value": 352.57,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1990,
+    "Value": 353.72,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1991,
+    "Value": 355.15,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1992,
+    "Value": 355.9,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1993,
+    "Value": 356.63,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1994,
+    "Value": 358.2,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1995,
+    "Value": 360.23,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1996,
+    "Value": 362.01,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1997,
+    "Value": 363.17,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1998,
+    "Value": 365.69,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1999,
+    "Value": 367.81,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2000,
+    "Value": 368.92,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2001,
+    "Value": 370.38,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2002,
+    "Value": 372.49,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2003,
+    "Value": 375.08,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2004,
+    "Value": 376.61,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2005,
+    "Value": 378.97,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2006,
+    "Value": 381.17,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2007,
+    "Value": 382.89,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2008,
+    "Value": 384.98,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2009,
+    "Value": 386.42,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2010,
+    "Value": 388.71,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2011,
+    "Value": 390.57,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2012,
+    "Value": 392.64,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2013,
+    "Value": 395.49,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2014,
+    "Value": 397.45,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2015,
+    "Value": 399.58,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2016,
+    "Value": 402.87,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2017,
+    "Value": 405.19,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 2018,
+    "Value": 407.58,
+    "Polutant": "CO2 (ppm)"
+  },
+  {
+    "Year": 1750,
+    "Value": 719.01,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1755,
+    "Value": 719.97,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1760,
+    "Value": 720.93,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1765,
+    "Value": 723.71,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1770,
+    "Value": 726.5,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1775,
+    "Value": 730.53,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1780,
+    "Value": 734.57,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1785,
+    "Value": 739.29,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1790,
+    "Value": 744.01,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1795,
+    "Value": 747.4,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1800,
+    "Value": 750.8,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1805,
+    "Value": 755.45,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1810,
+    "Value": 760.11,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1815,
+    "Value": 764.92,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1820,
+    "Value": 769.73,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1825,
+    "Value": 774.54,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1830,
+    "Value": 779.35,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1835,
+    "Value": 784.21,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1840,
+    "Value": 789.06,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1845,
+    "Value": 795.24,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1850,
+    "Value": 801.42,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1855,
+    "Value": 808.5,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1860,
+    "Value": 815.59,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1865,
+    "Value": 823.38,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1870,
+    "Value": 831.18,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1875,
+    "Value": 839.33,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1880,
+    "Value": 847.48,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1885,
+    "Value": 857.35,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1890,
+    "Value": 867.22,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1895,
+    "Value": 878.76,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1900,
+    "Value": 890.3,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1905,
+    "Value": 912.07,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1910,
+    "Value": 935.46,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1915,
+    "Value": 961.48,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1920,
+    "Value": 990.23,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1925,
+    "Value": 1020.2,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1930,
+    "Value": 1049.05,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1935,
+    "Value": 1076.54,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1940,
+    "Value": 1102.4,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1945,
+    "Value": 1128.83,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1950,
+    "Value": 1161.73,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1955,
+    "Value": 1207.03,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1960,
+    "Value": 1262.97,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1965,
+    "Value": 1328.47,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1970,
+    "Value": 1403.19,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1975,
+    "Value": 1483.57,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1978,
+    "Value": 1532.77,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1979,
+    "Value": 1549.53,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1980,
+    "Value": 1566.28,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1981,
+    "Value": 1583.48,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1982,
+    "Value": 1600.69,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1983,
+    "Value": 1617.89,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1984,
+    "Value": 1635.09,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1985,
+    "Value": 1652.29,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1986,
+    "Value": 1669.49,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1987,
+    "Value": 1680.66,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1988,
+    "Value": 1698.83,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1989,
+    "Value": 1710.52,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1990,
+    "Value": 1709.33,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1991,
+    "Value": 1729.07,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1992,
+    "Value": 1731.05,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1993,
+    "Value": 1735.65,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1994,
+    "Value": 1741.66,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1995,
+    "Value": 1747.1,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1996,
+    "Value": 1749.86,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1997,
+    "Value": 1753.94,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1998,
+    "Value": 1762.43,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1999,
+    "Value": 1772.33,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2000,
+    "Value": 1774.07,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2001,
+    "Value": 1772.95,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2002,
+    "Value": 1773.14,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2003,
+    "Value": 1777.41,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2004,
+    "Value": 1775.44,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2005,
+    "Value": 1774.55,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2006,
+    "Value": 1776.4,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2007,
+    "Value": 1781.75,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2008,
+    "Value": 1789.94,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2009,
+    "Value": 1793.63,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2010,
+    "Value": 1796.84,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2011,
+    "Value": 1803.42,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2012,
+    "Value": 1810.33,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2013,
+    "Value": 1815.44,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2014,
+    "Value": 1824.4,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2015,
+    "Value": 1834.63,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2016,
+    "Value": 1842.4,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2017,
+    "Value": 1849.95,
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 2018,
+    "Value": "",
+    "Polutant": "CH4 (ppb)"
+  },
+  {
+    "Year": 1750,
+    "Value": 270,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1755,
+    "Value": 270.3,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1760,
+    "Value": 270.6,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1765,
+    "Value": 270.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1770,
+    "Value": 271.2,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1775,
+    "Value": 271.5,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1780,
+    "Value": 271.8,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1785,
+    "Value": 272.1,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1790,
+    "Value": 272.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1795,
+    "Value": 272.7,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1800,
+    "Value": 273,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1805,
+    "Value": 273.24,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1810,
+    "Value": 273.48,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1815,
+    "Value": 273.72,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1820,
+    "Value": 273.96,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1825,
+    "Value": 274.2,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1830,
+    "Value": 274.44,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1835,
+    "Value": 274.68,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1840,
+    "Value": 274.92,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1845,
+    "Value": 275.16,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1850,
+    "Value": 275.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1855,
+    "Value": 275.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1860,
+    "Value": 276.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1865,
+    "Value": 276.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1870,
+    "Value": 277.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1875,
+    "Value": 277.8,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1880,
+    "Value": 278.2,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1885,
+    "Value": 278.7,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1890,
+    "Value": 279.1,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1895,
+    "Value": 279.5,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1900,
+    "Value": 279.8,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1905,
+    "Value": 280.3,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1910,
+    "Value": 281,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1915,
+    "Value": 281.8,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1920,
+    "Value": 282.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1925,
+    "Value": 284,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1930,
+    "Value": 285,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1935,
+    "Value": 285.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1940,
+    "Value": 286.7,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1945,
+    "Value": 287.8,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1950,
+    "Value": 289,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1955,
+    "Value": 290.1,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1960,
+    "Value": 291.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1965,
+    "Value": 292.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1970,
+    "Value": 294.9,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1975,
+    "Value": 297.4,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1978,
+    "Value": 298.82,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1979,
+    "Value": 300.04,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1980,
+    "Value": 300.65,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1981,
+    "Value": 301.23,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1982,
+    "Value": 303.56,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1983,
+    "Value": 303.78,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1984,
+    "Value": 304.02,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1985,
+    "Value": 304.54,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1986,
+    "Value": 305.37,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1987,
+    "Value": 305.55,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1988,
+    "Value": 306.49,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1989,
+    "Value": 307.48,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1990,
+    "Value": 308.78,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1991,
+    "Value": 309.57,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1992,
+    "Value": 310,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1993,
+    "Value": 310.25,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1994,
+    "Value": 310.98,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1995,
+    "Value": 311.78,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1996,
+    "Value": 312.81,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1997,
+    "Value": 313.53,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1998,
+    "Value": 314.2,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 1999,
+    "Value": 315.15,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2000,
+    "Value": 316.14,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2001,
+    "Value": 316.89,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2002,
+    "Value": 317.47,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2003,
+    "Value": 318.21,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2004,
+    "Value": 318.93,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2005,
+    "Value": 319.6,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2006,
+    "Value": 320.37,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2007,
+    "Value": 321.14,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2008,
+    "Value": 322.11,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2009,
+    "Value": 322.88,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2010,
+    "Value": 323.7,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2011,
+    "Value": 324.61,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2012,
+    "Value": 325.58,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2013,
+    "Value": 326.53,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2014,
+    "Value": 327.61,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2015,
+    "Value": 328.51,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2016,
+    "Value": 329.33,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2017,
+    "Value": 330.31,
+    "Polutant": "N2O (ppb)"
+  },
+  {
+    "Year": 2018,
+    "Value": "",
+    "Polutant": "N2O (ppb)"
+  }
+]
