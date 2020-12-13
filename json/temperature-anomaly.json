@@ -1,0 +1,4762 @@
+[
+  {
+    "Entity": "Global",
+    "Year": 1850,
+    "Median temperature anomaly from 1961-1990 average": -0.373,
+    "Upper bound (95% CI)": -0.339,
+    "Lower bound (95% CI)": -0.425
+  },
+  {
+    "Entity": "Global",
+    "Year": 1851,
+    "Median temperature anomaly from 1961-1990 average": -0.218,
+    "Upper bound (95% CI)": -0.184,
+    "Lower bound (95% CI)": -0.274
+  },
+  {
+    "Entity": "Global",
+    "Year": 1852,
+    "Median temperature anomaly from 1961-1990 average": -0.228,
+    "Upper bound (95% CI)": -0.196,
+    "Lower bound (95% CI)": -0.28
+  },
+  {
+    "Entity": "Global",
+    "Year": 1853,
+    "Median temperature anomaly from 1961-1990 average": -0.269,
+    "Upper bound (95% CI)": -0.239,
+    "Lower bound (95% CI)": -0.321
+  },
+  {
+    "Entity": "Global",
+    "Year": 1854,
+    "Median temperature anomaly from 1961-1990 average": -0.248,
+    "Upper bound (95% CI)": -0.218,
+    "Lower bound (95% CI)": -0.301
+  },
+  {
+    "Entity": "Global",
+    "Year": 1855,
+    "Median temperature anomaly from 1961-1990 average": -0.272,
+    "Upper bound (95% CI)": -0.241,
+    "Lower bound (95% CI)": -0.324
+  },
+  {
+    "Entity": "Global",
+    "Year": 1856,
+    "Median temperature anomaly from 1961-1990 average": -0.358,
+    "Upper bound (95% CI)": -0.327,
+    "Lower bound (95% CI)": -0.413
+  },
+  {
+    "Entity": "Global",
+    "Year": 1857,
+    "Median temperature anomaly from 1961-1990 average": -0.461,
+    "Upper bound (95% CI)": -0.431,
+    "Lower bound (95% CI)": -0.512
+  },
+  {
+    "Entity": "Global",
+    "Year": 1858,
+    "Median temperature anomaly from 1961-1990 average": -0.467,
+    "Upper bound (95% CI)": -0.435,
+    "Lower bound (95% CI)": -0.521
+  },
+  {
+    "Entity": "Global",
+    "Year": 1859,
+    "Median temperature anomaly from 1961-1990 average": -0.284,
+    "Upper bound (95% CI)": -0.249,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Global",
+    "Year": 1860,
+    "Median temperature anomaly from 1961-1990 average": -0.343,
+    "Upper bound (95% CI)": -0.31,
+    "Lower bound (95% CI)": -0.405
+  },
+  {
+    "Entity": "Global",
+    "Year": 1861,
+    "Median temperature anomaly from 1961-1990 average": -0.407,
+    "Upper bound (95% CI)": -0.356,
+    "Lower bound (95% CI)": -0.484
+  },
+  {
+    "Entity": "Global",
+    "Year": 1862,
+    "Median temperature anomaly from 1961-1990 average": -0.524,
+    "Upper bound (95% CI)": -0.471,
+    "Lower bound (95% CI)": -0.597
+  },
+  {
+    "Entity": "Global",
+    "Year": 1863,
+    "Median temperature anomaly from 1961-1990 average": -0.278,
+    "Upper bound (95% CI)": -0.226,
+    "Lower bound (95% CI)": -0.359
+  },
+  {
+    "Entity": "Global",
+    "Year": 1864,
+    "Median temperature anomaly from 1961-1990 average": -0.494,
+    "Upper bound (95% CI)": -0.448,
+    "Lower bound (95% CI)": -0.564
+  },
+  {
+    "Entity": "Global",
+    "Year": 1865,
+    "Median temperature anomaly from 1961-1990 average": -0.279,
+    "Upper bound (95% CI)": -0.232,
+    "Lower bound (95% CI)": -0.358
+  },
+  {
+    "Entity": "Global",
+    "Year": 1866,
+    "Median temperature anomaly from 1961-1990 average": -0.251,
+    "Upper bound (95% CI)": -0.197,
+    "Lower bound (95% CI)": -0.338
+  },
+  {
+    "Entity": "Global",
+    "Year": 1867,
+    "Median temperature anomaly from 1961-1990 average": -0.321,
+    "Upper bound (95% CI)": -0.265,
+    "Lower bound (95% CI)": -0.406
+  },
+  {
+    "Entity": "Global",
+    "Year": 1868,
+    "Median temperature anomaly from 1961-1990 average": -0.238,
+    "Upper bound (95% CI)": -0.185,
+    "Lower bound (95% CI)": -0.326
+  },
+  {
+    "Entity": "Global",
+    "Year": 1869,
+    "Median temperature anomaly from 1961-1990 average": -0.262,
+    "Upper bound (95% CI)": -0.221,
+    "Lower bound (95% CI)": -0.333
+  },
+  {
+    "Entity": "Global",
+    "Year": 1870,
+    "Median temperature anomaly from 1961-1990 average": -0.276,
+    "Upper bound (95% CI)": -0.239,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Global",
+    "Year": 1871,
+    "Median temperature anomaly from 1961-1990 average": -0.335,
+    "Upper bound (95% CI)": -0.293,
+    "Lower bound (95% CI)": -0.404
+  },
+  {
+    "Entity": "Global",
+    "Year": 1872,
+    "Median temperature anomaly from 1961-1990 average": -0.227,
+    "Upper bound (95% CI)": -0.187,
+    "Lower bound (95% CI)": -0.29
+  },
+  {
+    "Entity": "Global",
+    "Year": 1873,
+    "Median temperature anomaly from 1961-1990 average": -0.304,
+    "Upper bound (95% CI)": -0.258,
+    "Lower bound (95% CI)": -0.364
+  },
+  {
+    "Entity": "Global",
+    "Year": 1874,
+    "Median temperature anomaly from 1961-1990 average": -0.368,
+    "Upper bound (95% CI)": -0.325,
+    "Lower bound (95% CI)": -0.435
+  },
+  {
+    "Entity": "Global",
+    "Year": 1875,
+    "Median temperature anomaly from 1961-1990 average": -0.395,
+    "Upper bound (95% CI)": -0.352,
+    "Lower bound (95% CI)": -0.464
+  },
+  {
+    "Entity": "Global",
+    "Year": 1876,
+    "Median temperature anomaly from 1961-1990 average": -0.384,
+    "Upper bound (95% CI)": -0.335,
+    "Lower bound (95% CI)": -0.453
+  },
+  {
+    "Entity": "Global",
+    "Year": 1877,
+    "Median temperature anomaly from 1961-1990 average": -0.075,
+    "Upper bound (95% CI)": -0.026,
+    "Lower bound (95% CI)": -0.146
+  },
+  {
+    "Entity": "Global",
+    "Year": 1878,
+    "Median temperature anomaly from 1961-1990 average": 0.035,
+    "Upper bound (95% CI)": 0.084,
+    "Lower bound (95% CI)": -0.026
+  },
+  {
+    "Entity": "Global",
+    "Year": 1879,
+    "Median temperature anomaly from 1961-1990 average": -0.23,
+    "Upper bound (95% CI)": -0.189,
+    "Lower bound (95% CI)": -0.291
+  },
+  {
+    "Entity": "Global",
+    "Year": 1880,
+    "Median temperature anomaly from 1961-1990 average": -0.227,
+    "Upper bound (95% CI)": -0.182,
+    "Lower bound (95% CI)": -0.288
+  },
+  {
+    "Entity": "Global",
+    "Year": 1881,
+    "Median temperature anomaly from 1961-1990 average": -0.2,
+    "Upper bound (95% CI)": -0.157,
+    "Lower bound (95% CI)": -0.259
+  },
+  {
+    "Entity": "Global",
+    "Year": 1882,
+    "Median temperature anomaly from 1961-1990 average": -0.213,
+    "Upper bound (95% CI)": -0.171,
+    "Lower bound (95% CI)": -0.274
+  },
+  {
+    "Entity": "Global",
+    "Year": 1883,
+    "Median temperature anomaly from 1961-1990 average": -0.296,
+    "Upper bound (95% CI)": -0.251,
+    "Lower bound (95% CI)": -0.35
+  },
+  {
+    "Entity": "Global",
+    "Year": 1884,
+    "Median temperature anomaly from 1961-1990 average": -0.409,
+    "Upper bound (95% CI)": -0.373,
+    "Lower bound (95% CI)": -0.457
+  },
+  {
+    "Entity": "Global",
+    "Year": 1885,
+    "Median temperature anomaly from 1961-1990 average": -0.389,
+    "Upper bound (95% CI)": -0.354,
+    "Lower bound (95% CI)": -0.444
+  },
+  {
+    "Entity": "Global",
+    "Year": 1886,
+    "Median temperature anomaly from 1961-1990 average": -0.367,
+    "Upper bound (95% CI)": -0.334,
+    "Lower bound (95% CI)": -0.419
+  },
+  {
+    "Entity": "Global",
+    "Year": 1887,
+    "Median temperature anomaly from 1961-1990 average": -0.418,
+    "Upper bound (95% CI)": -0.382,
+    "Lower bound (95% CI)": -0.476
+  },
+  {
+    "Entity": "Global",
+    "Year": 1888,
+    "Median temperature anomaly from 1961-1990 average": -0.307,
+    "Upper bound (95% CI)": -0.268,
+    "Lower bound (95% CI)": -0.359
+  },
+  {
+    "Entity": "Global",
+    "Year": 1889,
+    "Median temperature anomaly from 1961-1990 average": -0.171,
+    "Upper bound (95% CI)": -0.129,
+    "Lower bound (95% CI)": -0.235
+  },
+  {
+    "Entity": "Global",
+    "Year": 1890,
+    "Median temperature anomaly from 1961-1990 average": -0.416,
+    "Upper bound (95% CI)": -0.369,
+    "Lower bound (95% CI)": -0.484
+  },
+  {
+    "Entity": "Global",
+    "Year": 1891,
+    "Median temperature anomaly from 1961-1990 average": -0.33,
+    "Upper bound (95% CI)": -0.276,
+    "Lower bound (95% CI)": -0.408
+  },
+  {
+    "Entity": "Global",
+    "Year": 1892,
+    "Median temperature anomaly from 1961-1990 average": -0.455,
+    "Upper bound (95% CI)": -0.4,
+    "Lower bound (95% CI)": -0.526
+  },
+  {
+    "Entity": "Global",
+    "Year": 1893,
+    "Median temperature anomaly from 1961-1990 average": -0.473,
+    "Upper bound (95% CI)": -0.416,
+    "Lower bound (95% CI)": -0.547
+  },
+  {
+    "Entity": "Global",
+    "Year": 1894,
+    "Median temperature anomaly from 1961-1990 average": -0.41,
+    "Upper bound (95% CI)": -0.352,
+    "Lower bound (95% CI)": -0.487
+  },
+  {
+    "Entity": "Global",
+    "Year": 1895,
+    "Median temperature anomaly from 1961-1990 average": -0.39,
+    "Upper bound (95% CI)": -0.335,
+    "Lower bound (95% CI)": -0.46
+  },
+  {
+    "Entity": "Global",
+    "Year": 1896,
+    "Median temperature anomaly from 1961-1990 average": -0.186,
+    "Upper bound (95% CI)": -0.136,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Global",
+    "Year": 1897,
+    "Median temperature anomaly from 1961-1990 average": -0.206,
+    "Upper bound (95% CI)": -0.153,
+    "Lower bound (95% CI)": -0.273
+  },
+  {
+    "Entity": "Global",
+    "Year": 1898,
+    "Median temperature anomaly from 1961-1990 average": -0.412,
+    "Upper bound (95% CI)": -0.362,
+    "Lower bound (95% CI)": -0.479
+  },
+  {
+    "Entity": "Global",
+    "Year": 1899,
+    "Median temperature anomaly from 1961-1990 average": -0.289,
+    "Upper bound (95% CI)": -0.231,
+    "Lower bound (95% CI)": -0.355
+  },
+  {
+    "Entity": "Global",
+    "Year": 1900,
+    "Median temperature anomaly from 1961-1990 average": -0.203,
+    "Upper bound (95% CI)": -0.147,
+    "Lower bound (95% CI)": -0.272
+  },
+  {
+    "Entity": "Global",
+    "Year": 1901,
+    "Median temperature anomaly from 1961-1990 average": -0.259,
+    "Upper bound (95% CI)": -0.208,
+    "Lower bound (95% CI)": -0.326
+  },
+  {
+    "Entity": "Global",
+    "Year": 1902,
+    "Median temperature anomaly from 1961-1990 average": -0.402,
+    "Upper bound (95% CI)": -0.355,
+    "Lower bound (95% CI)": -0.461
+  },
+  {
+    "Entity": "Global",
+    "Year": 1903,
+    "Median temperature anomaly from 1961-1990 average": -0.479,
+    "Upper bound (95% CI)": -0.431,
+    "Lower bound (95% CI)": -0.543
+  },
+  {
+    "Entity": "Global",
+    "Year": 1904,
+    "Median temperature anomaly from 1961-1990 average": -0.52,
+    "Upper bound (95% CI)": -0.471,
+    "Lower bound (95% CI)": -0.58
+  },
+  {
+    "Entity": "Global",
+    "Year": 1905,
+    "Median temperature anomaly from 1961-1990 average": -0.377,
+    "Upper bound (95% CI)": -0.326,
+    "Lower bound (95% CI)": -0.438
+  },
+  {
+    "Entity": "Global",
+    "Year": 1906,
+    "Median temperature anomaly from 1961-1990 average": -0.283,
+    "Upper bound (95% CI)": -0.232,
+    "Lower bound (95% CI)": -0.338
+  },
+  {
+    "Entity": "Global",
+    "Year": 1907,
+    "Median temperature anomaly from 1961-1990 average": -0.465,
+    "Upper bound (95% CI)": -0.423,
+    "Lower bound (95% CI)": -0.523
+  },
+  {
+    "Entity": "Global",
+    "Year": 1908,
+    "Median temperature anomaly from 1961-1990 average": -0.511,
+    "Upper bound (95% CI)": -0.468,
+    "Lower bound (95% CI)": -0.563
+  },
+  {
+    "Entity": "Global",
+    "Year": 1909,
+    "Median temperature anomaly from 1961-1990 average": -0.522,
+    "Upper bound (95% CI)": -0.476,
+    "Lower bound (95% CI)": -0.576
+  },
+  {
+    "Entity": "Global",
+    "Year": 1910,
+    "Median temperature anomaly from 1961-1990 average": -0.49,
+    "Upper bound (95% CI)": -0.448,
+    "Lower bound (95% CI)": -0.547
+  },
+  {
+    "Entity": "Global",
+    "Year": 1911,
+    "Median temperature anomaly from 1961-1990 average": -0.544,
+    "Upper bound (95% CI)": -0.498,
+    "Lower bound (95% CI)": -0.595
+  },
+  {
+    "Entity": "Global",
+    "Year": 1912,
+    "Median temperature anomaly from 1961-1990 average": -0.437,
+    "Upper bound (95% CI)": -0.392,
+    "Lower bound (95% CI)": -0.486
+  },
+  {
+    "Entity": "Global",
+    "Year": 1913,
+    "Median temperature anomaly from 1961-1990 average": -0.424,
+    "Upper bound (95% CI)": -0.381,
+    "Lower bound (95% CI)": -0.471
+  },
+  {
+    "Entity": "Global",
+    "Year": 1914,
+    "Median temperature anomaly from 1961-1990 average": -0.244,
+    "Upper bound (95% CI)": -0.197,
+    "Lower bound (95% CI)": -0.291
+  },
+  {
+    "Entity": "Global",
+    "Year": 1915,
+    "Median temperature anomaly from 1961-1990 average": -0.141,
+    "Upper bound (95% CI)": -0.085,
+    "Lower bound (95% CI)": -0.202
+  },
+  {
+    "Entity": "Global",
+    "Year": 1916,
+    "Median temperature anomaly from 1961-1990 average": -0.383,
+    "Upper bound (95% CI)": -0.328,
+    "Lower bound (95% CI)": -0.437
+  },
+  {
+    "Entity": "Global",
+    "Year": 1917,
+    "Median temperature anomaly from 1961-1990 average": -0.468,
+    "Upper bound (95% CI)": -0.413,
+    "Lower bound (95% CI)": -0.525
+  },
+  {
+    "Entity": "Global",
+    "Year": 1918,
+    "Median temperature anomaly from 1961-1990 average": -0.333,
+    "Upper bound (95% CI)": -0.27,
+    "Lower bound (95% CI)": -0.396
+  },
+  {
+    "Entity": "Global",
+    "Year": 1919,
+    "Median temperature anomaly from 1961-1990 average": -0.275,
+    "Upper bound (95% CI)": -0.217,
+    "Lower bound (95% CI)": -0.327
+  },
+  {
+    "Entity": "Global",
+    "Year": 1920,
+    "Median temperature anomaly from 1961-1990 average": -0.247,
+    "Upper bound (95% CI)": -0.198,
+    "Lower bound (95% CI)": -0.296
+  },
+  {
+    "Entity": "Global",
+    "Year": 1921,
+    "Median temperature anomaly from 1961-1990 average": -0.187,
+    "Upper bound (95% CI)": -0.149,
+    "Lower bound (95% CI)": -0.237
+  },
+  {
+    "Entity": "Global",
+    "Year": 1922,
+    "Median temperature anomaly from 1961-1990 average": -0.302,
+    "Upper bound (95% CI)": -0.262,
+    "Lower bound (95% CI)": -0.346
+  },
+  {
+    "Entity": "Global",
+    "Year": 1923,
+    "Median temperature anomaly from 1961-1990 average": -0.276,
+    "Upper bound (95% CI)": -0.237,
+    "Lower bound (95% CI)": -0.323
+  },
+  {
+    "Entity": "Global",
+    "Year": 1924,
+    "Median temperature anomaly from 1961-1990 average": -0.294,
+    "Upper bound (95% CI)": -0.259,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Global",
+    "Year": 1925,
+    "Median temperature anomaly from 1961-1990 average": -0.215,
+    "Upper bound (95% CI)": -0.178,
+    "Lower bound (95% CI)": -0.265
+  },
+  {
+    "Entity": "Global",
+    "Year": 1926,
+    "Median temperature anomaly from 1961-1990 average": -0.108,
+    "Upper bound (95% CI)": -0.07,
+    "Lower bound (95% CI)": -0.155
+  },
+  {
+    "Entity": "Global",
+    "Year": 1927,
+    "Median temperature anomaly from 1961-1990 average": -0.21,
+    "Upper bound (95% CI)": -0.177,
+    "Lower bound (95% CI)": -0.253
+  },
+  {
+    "Entity": "Global",
+    "Year": 1928,
+    "Median temperature anomaly from 1961-1990 average": -0.206,
+    "Upper bound (95% CI)": -0.174,
+    "Lower bound (95% CI)": -0.253
+  },
+  {
+    "Entity": "Global",
+    "Year": 1929,
+    "Median temperature anomaly from 1961-1990 average": -0.35,
+    "Upper bound (95% CI)": -0.32,
+    "Lower bound (95% CI)": -0.394
+  },
+  {
+    "Entity": "Global",
+    "Year": 1930,
+    "Median temperature anomaly from 1961-1990 average": -0.137,
+    "Upper bound (95% CI)": -0.104,
+    "Lower bound (95% CI)": -0.181
+  },
+  {
+    "Entity": "Global",
+    "Year": 1931,
+    "Median temperature anomaly from 1961-1990 average": -0.087,
+    "Upper bound (95% CI)": -0.055,
+    "Lower bound (95% CI)": -0.133
+  },
+  {
+    "Entity": "Global",
+    "Year": 1932,
+    "Median temperature anomaly from 1961-1990 average": -0.137,
+    "Upper bound (95% CI)": -0.107,
+    "Lower bound (95% CI)": -0.183
+  },
+  {
+    "Entity": "Global",
+    "Year": 1933,
+    "Median temperature anomaly from 1961-1990 average": -0.273,
+    "Upper bound (95% CI)": -0.24,
+    "Lower bound (95% CI)": -0.32
+  },
+  {
+    "Entity": "Global",
+    "Year": 1934,
+    "Median temperature anomaly from 1961-1990 average": -0.131,
+    "Upper bound (95% CI)": -0.1,
+    "Lower bound (95% CI)": -0.177
+  },
+  {
+    "Entity": "Global",
+    "Year": 1935,
+    "Median temperature anomaly from 1961-1990 average": -0.178,
+    "Upper bound (95% CI)": -0.15,
+    "Lower bound (95% CI)": -0.221
+  },
+  {
+    "Entity": "Global",
+    "Year": 1936,
+    "Median temperature anomaly from 1961-1990 average": -0.147,
+    "Upper bound (95% CI)": -0.12,
+    "Lower bound (95% CI)": -0.186
+  },
+  {
+    "Entity": "Global",
+    "Year": 1937,
+    "Median temperature anomaly from 1961-1990 average": -0.026,
+    "Upper bound (95% CI)": 0.001,
+    "Lower bound (95% CI)": -0.064
+  },
+  {
+    "Entity": "Global",
+    "Year": 1938,
+    "Median temperature anomaly from 1961-1990 average": -0.006,
+    "Upper bound (95% CI)": 0.017,
+    "Lower bound (95% CI)": -0.044
+  },
+  {
+    "Entity": "Global",
+    "Year": 1939,
+    "Median temperature anomaly from 1961-1990 average": -0.052,
+    "Upper bound (95% CI)": -0.029,
+    "Lower bound (95% CI)": -0.088
+  },
+  {
+    "Entity": "Global",
+    "Year": 1940,
+    "Median temperature anomaly from 1961-1990 average": 0.014,
+    "Upper bound (95% CI)": 0.045,
+    "Lower bound (95% CI)": -0.018
+  },
+  {
+    "Entity": "Global",
+    "Year": 1941,
+    "Median temperature anomaly from 1961-1990 average": 0.02,
+    "Upper bound (95% CI)": 0.053,
+    "Lower bound (95% CI)": -0.021
+  },
+  {
+    "Entity": "Global",
+    "Year": 1942,
+    "Median temperature anomaly from 1961-1990 average": -0.027,
+    "Upper bound (95% CI)": 0.015,
+    "Lower bound (95% CI)": -0.081
+  },
+  {
+    "Entity": "Global",
+    "Year": 1943,
+    "Median temperature anomaly from 1961-1990 average": -0.004,
+    "Upper bound (95% CI)": 0.036,
+    "Lower bound (95% CI)": -0.056
+  },
+  {
+    "Entity": "Global",
+    "Year": 1944,
+    "Median temperature anomaly from 1961-1990 average": 0.144,
+    "Upper bound (95% CI)": 0.18,
+    "Lower bound (95% CI)": 0.094
+  },
+  {
+    "Entity": "Global",
+    "Year": 1945,
+    "Median temperature anomaly from 1961-1990 average": 0.025,
+    "Upper bound (95% CI)": 0.059,
+    "Lower bound (95% CI)": -0.017
+  },
+  {
+    "Entity": "Global",
+    "Year": 1946,
+    "Median temperature anomaly from 1961-1990 average": -0.071,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.113
+  },
+  {
+    "Entity": "Global",
+    "Year": 1947,
+    "Median temperature anomaly from 1961-1990 average": -0.038,
+    "Upper bound (95% CI)": 0.001,
+    "Lower bound (95% CI)": -0.098
+  },
+  {
+    "Entity": "Global",
+    "Year": 1948,
+    "Median temperature anomaly from 1961-1990 average": -0.039,
+    "Upper bound (95% CI)": 0,
+    "Lower bound (95% CI)": -0.101
+  },
+  {
+    "Entity": "Global",
+    "Year": 1949,
+    "Median temperature anomaly from 1961-1990 average": -0.074,
+    "Upper bound (95% CI)": -0.036,
+    "Lower bound (95% CI)": -0.119
+  },
+  {
+    "Entity": "Global",
+    "Year": 1950,
+    "Median temperature anomaly from 1961-1990 average": -0.173,
+    "Upper bound (95% CI)": -0.135,
+    "Lower bound (95% CI)": -0.216
+  },
+  {
+    "Entity": "Global",
+    "Year": 1951,
+    "Median temperature anomaly from 1961-1990 average": -0.052,
+    "Upper bound (95% CI)": -0.018,
+    "Lower bound (95% CI)": -0.091
+  },
+  {
+    "Entity": "Global",
+    "Year": 1952,
+    "Median temperature anomaly from 1961-1990 average": 0.028,
+    "Upper bound (95% CI)": 0.063,
+    "Lower bound (95% CI)": -0.01
+  },
+  {
+    "Entity": "Global",
+    "Year": 1953,
+    "Median temperature anomaly from 1961-1990 average": 0.097,
+    "Upper bound (95% CI)": 0.132,
+    "Lower bound (95% CI)": 0.06
+  },
+  {
+    "Entity": "Global",
+    "Year": 1954,
+    "Median temperature anomaly from 1961-1990 average": -0.129,
+    "Upper bound (95% CI)": -0.093,
+    "Lower bound (95% CI)": -0.166
+  },
+  {
+    "Entity": "Global",
+    "Year": 1955,
+    "Median temperature anomaly from 1961-1990 average": -0.19,
+    "Upper bound (95% CI)": -0.16,
+    "Lower bound (95% CI)": -0.222
+  },
+  {
+    "Entity": "Global",
+    "Year": 1956,
+    "Median temperature anomaly from 1961-1990 average": -0.267,
+    "Upper bound (95% CI)": -0.236,
+    "Lower bound (95% CI)": -0.297
+  },
+  {
+    "Entity": "Global",
+    "Year": 1957,
+    "Median temperature anomaly from 1961-1990 average": -0.007,
+    "Upper bound (95% CI)": 0.024,
+    "Lower bound (95% CI)": -0.035
+  },
+  {
+    "Entity": "Global",
+    "Year": 1958,
+    "Median temperature anomaly from 1961-1990 average": 0.046,
+    "Upper bound (95% CI)": 0.075,
+    "Lower bound (95% CI)": 0.02
+  },
+  {
+    "Entity": "Global",
+    "Year": 1959,
+    "Median temperature anomaly from 1961-1990 average": 0.017,
+    "Upper bound (95% CI)": 0.043,
+    "Lower bound (95% CI)": -0.008
+  },
+  {
+    "Entity": "Global",
+    "Year": 1960,
+    "Median temperature anomaly from 1961-1990 average": -0.049,
+    "Upper bound (95% CI)": -0.023,
+    "Lower bound (95% CI)": -0.073
+  },
+  {
+    "Entity": "Global",
+    "Year": 1961,
+    "Median temperature anomaly from 1961-1990 average": 0.038,
+    "Upper bound (95% CI)": 0.06,
+    "Lower bound (95% CI)": 0.009
+  },
+  {
+    "Entity": "Global",
+    "Year": 1962,
+    "Median temperature anomaly from 1961-1990 average": 0.014,
+    "Upper bound (95% CI)": 0.034,
+    "Lower bound (95% CI)": -0.012
+  },
+  {
+    "Entity": "Global",
+    "Year": 1963,
+    "Median temperature anomaly from 1961-1990 average": 0.048,
+    "Upper bound (95% CI)": 0.074,
+    "Lower bound (95% CI)": 0.022
+  },
+  {
+    "Entity": "Global",
+    "Year": 1964,
+    "Median temperature anomaly from 1961-1990 average": -0.223,
+    "Upper bound (95% CI)": -0.197,
+    "Lower bound (95% CI)": -0.246
+  },
+  {
+    "Entity": "Global",
+    "Year": 1965,
+    "Median temperature anomaly from 1961-1990 average": -0.14,
+    "Upper bound (95% CI)": -0.113,
+    "Lower bound (95% CI)": -0.163
+  },
+  {
+    "Entity": "Global",
+    "Year": 1966,
+    "Median temperature anomaly from 1961-1990 average": -0.068,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.09
+  },
+  {
+    "Entity": "Global",
+    "Year": 1967,
+    "Median temperature anomaly from 1961-1990 average": -0.074,
+    "Upper bound (95% CI)": -0.052,
+    "Lower bound (95% CI)": -0.093
+  },
+  {
+    "Entity": "Global",
+    "Year": 1968,
+    "Median temperature anomaly from 1961-1990 average": -0.113,
+    "Upper bound (95% CI)": -0.097,
+    "Lower bound (95% CI)": -0.133
+  },
+  {
+    "Entity": "Global",
+    "Year": 1969,
+    "Median temperature anomaly from 1961-1990 average": 0.032,
+    "Upper bound (95% CI)": 0.05,
+    "Lower bound (95% CI)": 0.014
+  },
+  {
+    "Entity": "Global",
+    "Year": 1970,
+    "Median temperature anomaly from 1961-1990 average": -0.027,
+    "Upper bound (95% CI)": -0.009,
+    "Lower bound (95% CI)": -0.048
+  },
+  {
+    "Entity": "Global",
+    "Year": 1971,
+    "Median temperature anomaly from 1961-1990 average": -0.186,
+    "Upper bound (95% CI)": -0.163,
+    "Lower bound (95% CI)": -0.204
+  },
+  {
+    "Entity": "Global",
+    "Year": 1972,
+    "Median temperature anomaly from 1961-1990 average": -0.065,
+    "Upper bound (95% CI)": -0.04,
+    "Lower bound (95% CI)": -0.08
+  },
+  {
+    "Entity": "Global",
+    "Year": 1973,
+    "Median temperature anomaly from 1961-1990 average": 0.062,
+    "Upper bound (95% CI)": 0.082,
+    "Lower bound (95% CI)": 0.051
+  },
+  {
+    "Entity": "Global",
+    "Year": 1974,
+    "Median temperature anomaly from 1961-1990 average": -0.214,
+    "Upper bound (95% CI)": -0.197,
+    "Lower bound (95% CI)": -0.227
+  },
+  {
+    "Entity": "Global",
+    "Year": 1975,
+    "Median temperature anomaly from 1961-1990 average": -0.149,
+    "Upper bound (95% CI)": -0.134,
+    "Lower bound (95% CI)": -0.163
+  },
+  {
+    "Entity": "Global",
+    "Year": 1976,
+    "Median temperature anomaly from 1961-1990 average": -0.241,
+    "Upper bound (95% CI)": -0.227,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Global",
+    "Year": 1977,
+    "Median temperature anomaly from 1961-1990 average": 0.047,
+    "Upper bound (95% CI)": 0.064,
+    "Lower bound (95% CI)": 0.034
+  },
+  {
+    "Entity": "Global",
+    "Year": 1978,
+    "Median temperature anomaly from 1961-1990 average": -0.062,
+    "Upper bound (95% CI)": -0.044,
+    "Lower bound (95% CI)": -0.077
+  },
+  {
+    "Entity": "Global",
+    "Year": 1979,
+    "Median temperature anomaly from 1961-1990 average": 0.057,
+    "Upper bound (95% CI)": 0.076,
+    "Lower bound (95% CI)": 0.041
+  },
+  {
+    "Entity": "Global",
+    "Year": 1980,
+    "Median temperature anomaly from 1961-1990 average": 0.092,
+    "Upper bound (95% CI)": 0.107,
+    "Lower bound (95% CI)": 0.077
+  },
+  {
+    "Entity": "Global",
+    "Year": 1981,
+    "Median temperature anomaly from 1961-1990 average": 0.14,
+    "Upper bound (95% CI)": 0.153,
+    "Lower bound (95% CI)": 0.125
+  },
+  {
+    "Entity": "Global",
+    "Year": 1982,
+    "Median temperature anomaly from 1961-1990 average": 0.011,
+    "Upper bound (95% CI)": 0.03,
+    "Lower bound (95% CI)": -0.011
+  },
+  {
+    "Entity": "Global",
+    "Year": 1983,
+    "Median temperature anomaly from 1961-1990 average": 0.194,
+    "Upper bound (95% CI)": 0.211,
+    "Lower bound (95% CI)": 0.174
+  },
+  {
+    "Entity": "Global",
+    "Year": 1984,
+    "Median temperature anomaly from 1961-1990 average": -0.014,
+    "Upper bound (95% CI)": 0.006,
+    "Lower bound (95% CI)": -0.033
+  },
+  {
+    "Entity": "Global",
+    "Year": 1985,
+    "Median temperature anomaly from 1961-1990 average": -0.03,
+    "Upper bound (95% CI)": -0.013,
+    "Lower bound (95% CI)": -0.048
+  },
+  {
+    "Entity": "Global",
+    "Year": 1986,
+    "Median temperature anomaly from 1961-1990 average": 0.045,
+    "Upper bound (95% CI)": 0.067,
+    "Lower bound (95% CI)": 0.024
+  },
+  {
+    "Entity": "Global",
+    "Year": 1987,
+    "Median temperature anomaly from 1961-1990 average": 0.192,
+    "Upper bound (95% CI)": 0.22,
+    "Lower bound (95% CI)": 0.171
+  },
+  {
+    "Entity": "Global",
+    "Year": 1988,
+    "Median temperature anomaly from 1961-1990 average": 0.198,
+    "Upper bound (95% CI)": 0.221,
+    "Lower bound (95% CI)": 0.175
+  },
+  {
+    "Entity": "Global",
+    "Year": 1989,
+    "Median temperature anomaly from 1961-1990 average": 0.118,
+    "Upper bound (95% CI)": 0.147,
+    "Lower bound (95% CI)": 0.091
+  },
+  {
+    "Entity": "Global",
+    "Year": 1990,
+    "Median temperature anomaly from 1961-1990 average": 0.296,
+    "Upper bound (95% CI)": 0.33,
+    "Lower bound (95% CI)": 0.267
+  },
+  {
+    "Entity": "Global",
+    "Year": 1991,
+    "Median temperature anomaly from 1961-1990 average": 0.254,
+    "Upper bound (95% CI)": 0.289,
+    "Lower bound (95% CI)": 0.22
+  },
+  {
+    "Entity": "Global",
+    "Year": 1992,
+    "Median temperature anomaly from 1961-1990 average": 0.105,
+    "Upper bound (95% CI)": 0.139,
+    "Lower bound (95% CI)": 0.071
+  },
+  {
+    "Entity": "Global",
+    "Year": 1993,
+    "Median temperature anomaly from 1961-1990 average": 0.148,
+    "Upper bound (95% CI)": 0.186,
+    "Lower bound (95% CI)": 0.112
+  },
+  {
+    "Entity": "Global",
+    "Year": 1994,
+    "Median temperature anomaly from 1961-1990 average": 0.208,
+    "Upper bound (95% CI)": 0.247,
+    "Lower bound (95% CI)": 0.174
+  },
+  {
+    "Entity": "Global",
+    "Year": 1995,
+    "Median temperature anomaly from 1961-1990 average": 0.325,
+    "Upper bound (95% CI)": 0.361,
+    "Lower bound (95% CI)": 0.289
+  },
+  {
+    "Entity": "Global",
+    "Year": 1996,
+    "Median temperature anomaly from 1961-1990 average": 0.183,
+    "Upper bound (95% CI)": 0.217,
+    "Lower bound (95% CI)": 0.146
+  },
+  {
+    "Entity": "Global",
+    "Year": 1997,
+    "Median temperature anomaly from 1961-1990 average": 0.39,
+    "Upper bound (95% CI)": 0.425,
+    "Lower bound (95% CI)": 0.356
+  },
+  {
+    "Entity": "Global",
+    "Year": 1998,
+    "Median temperature anomaly from 1961-1990 average": 0.539,
+    "Upper bound (95% CI)": 0.578,
+    "Lower bound (95% CI)": 0.5
+  },
+  {
+    "Entity": "Global",
+    "Year": 1999,
+    "Median temperature anomaly from 1961-1990 average": 0.306,
+    "Upper bound (95% CI)": 0.343,
+    "Lower bound (95% CI)": 0.265
+  },
+  {
+    "Entity": "Global",
+    "Year": 2000,
+    "Median temperature anomaly from 1961-1990 average": 0.294,
+    "Upper bound (95% CI)": 0.338,
+    "Lower bound (95% CI)": 0.259
+  },
+  {
+    "Entity": "Global",
+    "Year": 2001,
+    "Median temperature anomaly from 1961-1990 average": 0.441,
+    "Upper bound (95% CI)": 0.483,
+    "Lower bound (95% CI)": 0.406
+  },
+  {
+    "Entity": "Global",
+    "Year": 2002,
+    "Median temperature anomaly from 1961-1990 average": 0.496,
+    "Upper bound (95% CI)": 0.538,
+    "Lower bound (95% CI)": 0.463
+  },
+  {
+    "Entity": "Global",
+    "Year": 2003,
+    "Median temperature anomaly from 1961-1990 average": 0.505,
+    "Upper bound (95% CI)": 0.546,
+    "Lower bound (95% CI)": 0.473
+  },
+  {
+    "Entity": "Global",
+    "Year": 2004,
+    "Median temperature anomaly from 1961-1990 average": 0.447,
+    "Upper bound (95% CI)": 0.483,
+    "Lower bound (95% CI)": 0.413
+  },
+  {
+    "Entity": "Global",
+    "Year": 2005,
+    "Median temperature anomaly from 1961-1990 average": 0.545,
+    "Upper bound (95% CI)": 0.583,
+    "Lower bound (95% CI)": 0.507
+  },
+  {
+    "Entity": "Global",
+    "Year": 2006,
+    "Median temperature anomaly from 1961-1990 average": 0.506,
+    "Upper bound (95% CI)": 0.544,
+    "Lower bound (95% CI)": 0.468
+  },
+  {
+    "Entity": "Global",
+    "Year": 2007,
+    "Median temperature anomaly from 1961-1990 average": 0.491,
+    "Upper bound (95% CI)": 0.531,
+    "Lower bound (95% CI)": 0.457
+  },
+  {
+    "Entity": "Global",
+    "Year": 2008,
+    "Median temperature anomaly from 1961-1990 average": 0.395,
+    "Upper bound (95% CI)": 0.432,
+    "Lower bound (95% CI)": 0.355
+  },
+  {
+    "Entity": "Global",
+    "Year": 2009,
+    "Median temperature anomaly from 1961-1990 average": 0.506,
+    "Upper bound (95% CI)": 0.546,
+    "Lower bound (95% CI)": 0.465
+  },
+  {
+    "Entity": "Global",
+    "Year": 2010,
+    "Median temperature anomaly from 1961-1990 average": 0.56,
+    "Upper bound (95% CI)": 0.603,
+    "Lower bound (95% CI)": 0.523
+  },
+  {
+    "Entity": "Global",
+    "Year": 2011,
+    "Median temperature anomaly from 1961-1990 average": 0.425,
+    "Upper bound (95% CI)": 0.466,
+    "Lower bound (95% CI)": 0.393
+  },
+  {
+    "Entity": "Global",
+    "Year": 2012,
+    "Median temperature anomaly from 1961-1990 average": 0.47,
+    "Upper bound (95% CI)": 0.509,
+    "Lower bound (95% CI)": 0.437
+  },
+  {
+    "Entity": "Global",
+    "Year": 2013,
+    "Median temperature anomaly from 1961-1990 average": 0.514,
+    "Upper bound (95% CI)": 0.552,
+    "Lower bound (95% CI)": 0.478
+  },
+  {
+    "Entity": "Global",
+    "Year": 2014,
+    "Median temperature anomaly from 1961-1990 average": 0.579,
+    "Upper bound (95% CI)": 0.616,
+    "Lower bound (95% CI)": 0.545
+  },
+  {
+    "Entity": "Global",
+    "Year": 2015,
+    "Median temperature anomaly from 1961-1990 average": 0.763,
+    "Upper bound (95% CI)": 0.802,
+    "Lower bound (95% CI)": 0.73
+  },
+  {
+    "Entity": "Global",
+    "Year": 2016,
+    "Median temperature anomaly from 1961-1990 average": 0.797,
+    "Upper bound (95% CI)": 0.835,
+    "Lower bound (95% CI)": 0.762
+  },
+  {
+    "Entity": "Global",
+    "Year": 2017,
+    "Median temperature anomaly from 1961-1990 average": 0.677,
+    "Upper bound (95% CI)": 0.716,
+    "Lower bound (95% CI)": 0.636
+  },
+  {
+    "Entity": "Global",
+    "Year": 2018,
+    "Median temperature anomaly from 1961-1990 average": 0.597,
+    "Upper bound (95% CI)": 0.636,
+    "Lower bound (95% CI)": 0.56
+  },
+  {
+    "Entity": "Global",
+    "Year": 2019,
+    "Median temperature anomaly from 1961-1990 average": 0.736,
+    "Upper bound (95% CI)": 0.776,
+    "Lower bound (95% CI)": 0.7
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1850,
+    "Median temperature anomaly from 1961-1990 average": -0.336,
+    "Upper bound (95% CI)": -0.284,
+    "Lower bound (95% CI)": -0.406
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1851,
+    "Median temperature anomaly from 1961-1990 average": -0.159,
+    "Upper bound (95% CI)": -0.108,
+    "Lower bound (95% CI)": -0.242
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1852,
+    "Median temperature anomaly from 1961-1990 average": -0.107,
+    "Upper bound (95% CI)": -0.058,
+    "Lower bound (95% CI)": -0.18
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1853,
+    "Median temperature anomaly from 1961-1990 average": -0.177,
+    "Upper bound (95% CI)": -0.132,
+    "Lower bound (95% CI)": -0.253
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1854,
+    "Median temperature anomaly from 1961-1990 average": -0.071,
+    "Upper bound (95% CI)": -0.026,
+    "Lower bound (95% CI)": -0.145
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1855,
+    "Median temperature anomaly from 1961-1990 average": -0.19,
+    "Upper bound (95% CI)": -0.145,
+    "Lower bound (95% CI)": -0.258
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1856,
+    "Median temperature anomaly from 1961-1990 average": -0.378,
+    "Upper bound (95% CI)": -0.335,
+    "Lower bound (95% CI)": -0.454
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1857,
+    "Median temperature anomaly from 1961-1990 average": -0.405,
+    "Upper bound (95% CI)": -0.361,
+    "Lower bound (95% CI)": -0.479
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1858,
+    "Median temperature anomaly from 1961-1990 average": -0.4,
+    "Upper bound (95% CI)": -0.357,
+    "Lower bound (95% CI)": -0.48
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1859,
+    "Median temperature anomaly from 1961-1990 average": -0.215,
+    "Upper bound (95% CI)": -0.158,
+    "Lower bound (95% CI)": -0.303
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1860,
+    "Median temperature anomaly from 1961-1990 average": -0.363,
+    "Upper bound (95% CI)": -0.301,
+    "Lower bound (95% CI)": -0.454
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1861,
+    "Median temperature anomaly from 1961-1990 average": -0.295,
+    "Upper bound (95% CI)": -0.208,
+    "Lower bound (95% CI)": -0.419
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1862,
+    "Median temperature anomaly from 1961-1990 average": -0.668,
+    "Upper bound (95% CI)": -0.573,
+    "Lower bound (95% CI)": -0.777
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1863,
+    "Median temperature anomaly from 1961-1990 average": -0.195,
+    "Upper bound (95% CI)": -0.099,
+    "Lower bound (95% CI)": -0.319
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1864,
+    "Median temperature anomaly from 1961-1990 average": -0.521,
+    "Upper bound (95% CI)": -0.444,
+    "Lower bound (95% CI)": -0.632
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1865,
+    "Median temperature anomaly from 1961-1990 average": -0.258,
+    "Upper bound (95% CI)": -0.165,
+    "Lower bound (95% CI)": -0.381
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1866,
+    "Median temperature anomaly from 1961-1990 average": -0.21,
+    "Upper bound (95% CI)": -0.095,
+    "Lower bound (95% CI)": -0.35
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1867,
+    "Median temperature anomaly from 1961-1990 average": -0.338,
+    "Upper bound (95% CI)": -0.231,
+    "Lower bound (95% CI)": -0.477
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1868,
+    "Median temperature anomaly from 1961-1990 average": -0.128,
+    "Upper bound (95% CI)": -0.012,
+    "Lower bound (95% CI)": -0.275
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1869,
+    "Median temperature anomaly from 1961-1990 average": -0.127,
+    "Upper bound (95% CI)": -0.047,
+    "Lower bound (95% CI)": -0.242
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1870,
+    "Median temperature anomaly from 1961-1990 average": -0.203,
+    "Upper bound (95% CI)": -0.136,
+    "Lower bound (95% CI)": -0.305
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1871,
+    "Median temperature anomaly from 1961-1990 average": -0.397,
+    "Upper bound (95% CI)": -0.322,
+    "Lower bound (95% CI)": -0.512
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1872,
+    "Median temperature anomaly from 1961-1990 average": -0.185,
+    "Upper bound (95% CI)": -0.109,
+    "Lower bound (95% CI)": -0.287
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1873,
+    "Median temperature anomaly from 1961-1990 average": -0.295,
+    "Upper bound (95% CI)": -0.218,
+    "Lower bound (95% CI)": -0.397
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1874,
+    "Median temperature anomaly from 1961-1990 average": -0.272,
+    "Upper bound (95% CI)": -0.183,
+    "Lower bound (95% CI)": -0.373
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1875,
+    "Median temperature anomaly from 1961-1990 average": -0.508,
+    "Upper bound (95% CI)": -0.426,
+    "Lower bound (95% CI)": -0.618
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1876,
+    "Median temperature anomaly from 1961-1990 average": -0.345,
+    "Upper bound (95% CI)": -0.262,
+    "Lower bound (95% CI)": -0.454
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1877,
+    "Median temperature anomaly from 1961-1990 average": 0,
+    "Upper bound (95% CI)": 0.093,
+    "Lower bound (95% CI)": -0.106
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1878,
+    "Median temperature anomaly from 1961-1990 average": 0.192,
+    "Upper bound (95% CI)": 0.27,
+    "Lower bound (95% CI)": 0.086
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1879,
+    "Median temperature anomaly from 1961-1990 average": -0.222,
+    "Upper bound (95% CI)": -0.143,
+    "Lower bound (95% CI)": -0.32
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1880,
+    "Median temperature anomaly from 1961-1990 average": -0.242,
+    "Upper bound (95% CI)": -0.159,
+    "Lower bound (95% CI)": -0.341
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1881,
+    "Median temperature anomaly from 1961-1990 average": -0.238,
+    "Upper bound (95% CI)": -0.162,
+    "Lower bound (95% CI)": -0.338
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1882,
+    "Median temperature anomaly from 1961-1990 average": -0.244,
+    "Upper bound (95% CI)": -0.162,
+    "Lower bound (95% CI)": -0.339
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1883,
+    "Median temperature anomaly from 1961-1990 average": -0.359,
+    "Upper bound (95% CI)": -0.283,
+    "Lower bound (95% CI)": -0.451
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1884,
+    "Median temperature anomaly from 1961-1990 average": -0.474,
+    "Upper bound (95% CI)": -0.406,
+    "Lower bound (95% CI)": -0.556
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1885,
+    "Median temperature anomaly from 1961-1990 average": -0.367,
+    "Upper bound (95% CI)": -0.306,
+    "Lower bound (95% CI)": -0.456
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1886,
+    "Median temperature anomaly from 1961-1990 average": -0.338,
+    "Upper bound (95% CI)": -0.28,
+    "Lower bound (95% CI)": -0.423
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1887,
+    "Median temperature anomaly from 1961-1990 average": -0.356,
+    "Upper bound (95% CI)": -0.292,
+    "Lower bound (95% CI)": -0.45
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1888,
+    "Median temperature anomaly from 1961-1990 average": -0.266,
+    "Upper bound (95% CI)": -0.193,
+    "Lower bound (95% CI)": -0.355
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1889,
+    "Median temperature anomaly from 1961-1990 average": -0.138,
+    "Upper bound (95% CI)": -0.054,
+    "Lower bound (95% CI)": -0.244
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1890,
+    "Median temperature anomaly from 1961-1990 average": -0.363,
+    "Upper bound (95% CI)": -0.273,
+    "Lower bound (95% CI)": -0.47
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1891,
+    "Median temperature anomaly from 1961-1990 average": -0.289,
+    "Upper bound (95% CI)": -0.19,
+    "Lower bound (95% CI)": -0.409
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1892,
+    "Median temperature anomaly from 1961-1990 average": -0.466,
+    "Upper bound (95% CI)": -0.37,
+    "Lower bound (95% CI)": -0.576
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1893,
+    "Median temperature anomaly from 1961-1990 average": -0.543,
+    "Upper bound (95% CI)": -0.449,
+    "Lower bound (95% CI)": -0.65
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1894,
+    "Median temperature anomaly from 1961-1990 average": -0.375,
+    "Upper bound (95% CI)": -0.279,
+    "Lower bound (95% CI)": -0.49
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1895,
+    "Median temperature anomaly from 1961-1990 average": -0.368,
+    "Upper bound (95% CI)": -0.269,
+    "Lower bound (95% CI)": -0.476
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1896,
+    "Median temperature anomaly from 1961-1990 average": -0.152,
+    "Upper bound (95% CI)": -0.061,
+    "Lower bound (95% CI)": -0.258
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1897,
+    "Median temperature anomaly from 1961-1990 average": -0.144,
+    "Upper bound (95% CI)": -0.048,
+    "Lower bound (95% CI)": -0.242
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1898,
+    "Median temperature anomaly from 1961-1990 average": -0.288,
+    "Upper bound (95% CI)": -0.203,
+    "Lower bound (95% CI)": -0.389
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1899,
+    "Median temperature anomaly from 1961-1990 average": -0.22,
+    "Upper bound (95% CI)": -0.131,
+    "Lower bound (95% CI)": -0.323
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1900,
+    "Median temperature anomaly from 1961-1990 average": -0.096,
+    "Upper bound (95% CI)": -0.004,
+    "Lower bound (95% CI)": -0.196
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1901,
+    "Median temperature anomaly from 1961-1990 average": -0.124,
+    "Upper bound (95% CI)": -0.043,
+    "Lower bound (95% CI)": -0.22
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1902,
+    "Median temperature anomaly from 1961-1990 average": -0.367,
+    "Upper bound (95% CI)": -0.294,
+    "Lower bound (95% CI)": -0.454
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1903,
+    "Median temperature anomaly from 1961-1990 average": -0.4,
+    "Upper bound (95% CI)": -0.329,
+    "Lower bound (95% CI)": -0.492
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1904,
+    "Median temperature anomaly from 1961-1990 average": -0.485,
+    "Upper bound (95% CI)": -0.414,
+    "Lower bound (95% CI)": -0.573
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1905,
+    "Median temperature anomaly from 1961-1990 average": -0.336,
+    "Upper bound (95% CI)": -0.265,
+    "Lower bound (95% CI)": -0.42
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1906,
+    "Median temperature anomaly from 1961-1990 average": -0.199,
+    "Upper bound (95% CI)": -0.131,
+    "Lower bound (95% CI)": -0.277
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1907,
+    "Median temperature anomaly from 1961-1990 average": -0.477,
+    "Upper bound (95% CI)": -0.411,
+    "Lower bound (95% CI)": -0.552
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1908,
+    "Median temperature anomaly from 1961-1990 average": -0.458,
+    "Upper bound (95% CI)": -0.4,
+    "Lower bound (95% CI)": -0.532
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1909,
+    "Median temperature anomaly from 1961-1990 average": -0.448,
+    "Upper bound (95% CI)": -0.393,
+    "Lower bound (95% CI)": -0.518
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1910,
+    "Median temperature anomaly from 1961-1990 average": -0.417,
+    "Upper bound (95% CI)": -0.36,
+    "Lower bound (95% CI)": -0.486
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1911,
+    "Median temperature anomaly from 1961-1990 average": -0.421,
+    "Upper bound (95% CI)": -0.365,
+    "Lower bound (95% CI)": -0.486
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1912,
+    "Median temperature anomaly from 1961-1990 average": -0.466,
+    "Upper bound (95% CI)": -0.409,
+    "Lower bound (95% CI)": -0.528
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1913,
+    "Median temperature anomaly from 1961-1990 average": -0.447,
+    "Upper bound (95% CI)": -0.4,
+    "Lower bound (95% CI)": -0.505
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1914,
+    "Median temperature anomaly from 1961-1990 average": -0.237,
+    "Upper bound (95% CI)": -0.187,
+    "Lower bound (95% CI)": -0.289
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1915,
+    "Median temperature anomaly from 1961-1990 average": -0.125,
+    "Upper bound (95% CI)": -0.078,
+    "Lower bound (95% CI)": -0.185
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1916,
+    "Median temperature anomaly from 1961-1990 average": -0.385,
+    "Upper bound (95% CI)": -0.339,
+    "Lower bound (95% CI)": -0.441
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1917,
+    "Median temperature anomaly from 1961-1990 average": -0.493,
+    "Upper bound (95% CI)": -0.448,
+    "Lower bound (95% CI)": -0.551
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1918,
+    "Median temperature anomaly from 1961-1990 average": -0.353,
+    "Upper bound (95% CI)": -0.303,
+    "Lower bound (95% CI)": -0.414
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1919,
+    "Median temperature anomaly from 1961-1990 average": -0.36,
+    "Upper bound (95% CI)": -0.315,
+    "Lower bound (95% CI)": -0.413
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1920,
+    "Median temperature anomaly from 1961-1990 average": -0.278,
+    "Upper bound (95% CI)": -0.237,
+    "Lower bound (95% CI)": -0.328
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1921,
+    "Median temperature anomaly from 1961-1990 average": -0.101,
+    "Upper bound (95% CI)": -0.062,
+    "Lower bound (95% CI)": -0.154
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1922,
+    "Median temperature anomaly from 1961-1990 average": -0.245,
+    "Upper bound (95% CI)": -0.207,
+    "Lower bound (95% CI)": -0.294
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1923,
+    "Median temperature anomaly from 1961-1990 average": -0.231,
+    "Upper bound (95% CI)": -0.194,
+    "Lower bound (95% CI)": -0.279
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1924,
+    "Median temperature anomaly from 1961-1990 average": -0.222,
+    "Upper bound (95% CI)": -0.189,
+    "Lower bound (95% CI)": -0.272
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1925,
+    "Median temperature anomaly from 1961-1990 average": -0.117,
+    "Upper bound (95% CI)": -0.079,
+    "Lower bound (95% CI)": -0.165
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1926,
+    "Median temperature anomaly from 1961-1990 average": -0.008,
+    "Upper bound (95% CI)": 0.025,
+    "Lower bound (95% CI)": -0.057
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1927,
+    "Median temperature anomaly from 1961-1990 average": -0.113,
+    "Upper bound (95% CI)": -0.081,
+    "Lower bound (95% CI)": -0.156
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1928,
+    "Median temperature anomaly from 1961-1990 average": -0.142,
+    "Upper bound (95% CI)": -0.111,
+    "Lower bound (95% CI)": -0.187
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1929,
+    "Median temperature anomaly from 1961-1990 average": -0.318,
+    "Upper bound (95% CI)": -0.293,
+    "Lower bound (95% CI)": -0.361
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1930,
+    "Median temperature anomaly from 1961-1990 average": -0.011,
+    "Upper bound (95% CI)": 0.014,
+    "Lower bound (95% CI)": -0.052
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1931,
+    "Median temperature anomaly from 1961-1990 average": 0.035,
+    "Upper bound (95% CI)": 0.062,
+    "Lower bound (95% CI)": -0.002
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1932,
+    "Median temperature anomaly from 1961-1990 average": -0.068,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.106
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1933,
+    "Median temperature anomaly from 1961-1990 average": -0.239,
+    "Upper bound (95% CI)": -0.216,
+    "Lower bound (95% CI)": -0.279
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1934,
+    "Median temperature anomaly from 1961-1990 average": -0.034,
+    "Upper bound (95% CI)": -0.011,
+    "Lower bound (95% CI)": -0.073
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1935,
+    "Median temperature anomaly from 1961-1990 average": -0.097,
+    "Upper bound (95% CI)": -0.073,
+    "Lower bound (95% CI)": -0.134
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1936,
+    "Median temperature anomaly from 1961-1990 average": -0.049,
+    "Upper bound (95% CI)": -0.024,
+    "Lower bound (95% CI)": -0.081
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1937,
+    "Median temperature anomaly from 1961-1990 average": 0.073,
+    "Upper bound (95% CI)": 0.097,
+    "Lower bound (95% CI)": 0.045
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1938,
+    "Median temperature anomaly from 1961-1990 average": 0.107,
+    "Upper bound (95% CI)": 0.128,
+    "Lower bound (95% CI)": 0.078
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1939,
+    "Median temperature anomaly from 1961-1990 average": 0.041,
+    "Upper bound (95% CI)": 0.062,
+    "Lower bound (95% CI)": 0.015
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1940,
+    "Median temperature anomaly from 1961-1990 average": 0.008,
+    "Upper bound (95% CI)": 0.034,
+    "Lower bound (95% CI)": -0.017
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1941,
+    "Median temperature anomaly from 1961-1990 average": 0.039,
+    "Upper bound (95% CI)": 0.077,
+    "Lower bound (95% CI)": 0.003
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1942,
+    "Median temperature anomaly from 1961-1990 average": 0.022,
+    "Upper bound (95% CI)": 0.063,
+    "Lower bound (95% CI)": -0.016
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1943,
+    "Median temperature anomaly from 1961-1990 average": 0.1,
+    "Upper bound (95% CI)": 0.141,
+    "Lower bound (95% CI)": 0.062
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1944,
+    "Median temperature anomaly from 1961-1990 average": 0.186,
+    "Upper bound (95% CI)": 0.222,
+    "Lower bound (95% CI)": 0.143
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1945,
+    "Median temperature anomaly from 1961-1990 average": 0.024,
+    "Upper bound (95% CI)": 0.051,
+    "Lower bound (95% CI)": -0.015
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1946,
+    "Median temperature anomaly from 1961-1990 average": 0.027,
+    "Upper bound (95% CI)": 0.051,
+    "Lower bound (95% CI)": -0.01
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1947,
+    "Median temperature anomaly from 1961-1990 average": 0.019,
+    "Upper bound (95% CI)": 0.046,
+    "Lower bound (95% CI)": -0.034
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1948,
+    "Median temperature anomaly from 1961-1990 average": 0.08,
+    "Upper bound (95% CI)": 0.109,
+    "Lower bound (95% CI)": 0.033
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1949,
+    "Median temperature anomaly from 1961-1990 average": -0.027,
+    "Upper bound (95% CI)": -0.002,
+    "Lower bound (95% CI)": -0.062
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1950,
+    "Median temperature anomaly from 1961-1990 average": -0.17,
+    "Upper bound (95% CI)": -0.141,
+    "Lower bound (95% CI)": -0.204
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1951,
+    "Median temperature anomaly from 1961-1990 average": 0.051,
+    "Upper bound (95% CI)": 0.08,
+    "Lower bound (95% CI)": 0.023
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1952,
+    "Median temperature anomaly from 1961-1990 average": 0.039,
+    "Upper bound (95% CI)": 0.072,
+    "Lower bound (95% CI)": 0.009
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1953,
+    "Median temperature anomaly from 1961-1990 average": 0.199,
+    "Upper bound (95% CI)": 0.227,
+    "Lower bound (95% CI)": 0.169
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1954,
+    "Median temperature anomaly from 1961-1990 average": -0.058,
+    "Upper bound (95% CI)": -0.03,
+    "Lower bound (95% CI)": -0.085
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1955,
+    "Median temperature anomaly from 1961-1990 average": -0.088,
+    "Upper bound (95% CI)": -0.066,
+    "Lower bound (95% CI)": -0.118
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1956,
+    "Median temperature anomaly from 1961-1990 average": -0.262,
+    "Upper bound (95% CI)": -0.237,
+    "Lower bound (95% CI)": -0.292
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1957,
+    "Median temperature anomaly from 1961-1990 average": 0.009,
+    "Upper bound (95% CI)": 0.036,
+    "Lower bound (95% CI)": -0.014
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1958,
+    "Median temperature anomaly from 1961-1990 average": 0.116,
+    "Upper bound (95% CI)": 0.138,
+    "Lower bound (95% CI)": 0.097
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1959,
+    "Median temperature anomaly from 1961-1990 average": 0.073,
+    "Upper bound (95% CI)": 0.094,
+    "Lower bound (95% CI)": 0.052
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1960,
+    "Median temperature anomaly from 1961-1990 average": 0.015,
+    "Upper bound (95% CI)": 0.034,
+    "Lower bound (95% CI)": -0.006
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1961,
+    "Median temperature anomaly from 1961-1990 average": 0.065,
+    "Upper bound (95% CI)": 0.083,
+    "Lower bound (95% CI)": 0.043
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1962,
+    "Median temperature anomaly from 1961-1990 average": 0.089,
+    "Upper bound (95% CI)": 0.108,
+    "Lower bound (95% CI)": 0.069
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1963,
+    "Median temperature anomaly from 1961-1990 average": 0.148,
+    "Upper bound (95% CI)": 0.17,
+    "Lower bound (95% CI)": 0.128
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1964,
+    "Median temperature anomaly from 1961-1990 average": -0.169,
+    "Upper bound (95% CI)": -0.145,
+    "Lower bound (95% CI)": -0.189
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1965,
+    "Median temperature anomaly from 1961-1990 average": -0.134,
+    "Upper bound (95% CI)": -0.108,
+    "Lower bound (95% CI)": -0.153
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1966,
+    "Median temperature anomaly from 1961-1990 average": 0.003,
+    "Upper bound (95% CI)": 0.027,
+    "Lower bound (95% CI)": -0.014
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1967,
+    "Median temperature anomaly from 1961-1990 average": 0.026,
+    "Upper bound (95% CI)": 0.045,
+    "Lower bound (95% CI)": 0.011
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1968,
+    "Median temperature anomaly from 1961-1990 average": -0.063,
+    "Upper bound (95% CI)": -0.051,
+    "Lower bound (95% CI)": -0.079
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1969,
+    "Median temperature anomaly from 1961-1990 average": -0.054,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.072
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1970,
+    "Median temperature anomaly from 1961-1990 average": -0.056,
+    "Upper bound (95% CI)": -0.04,
+    "Lower bound (95% CI)": -0.071
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1971,
+    "Median temperature anomaly from 1961-1990 average": -0.193,
+    "Upper bound (95% CI)": -0.174,
+    "Lower bound (95% CI)": -0.208
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1972,
+    "Median temperature anomaly from 1961-1990 average": -0.222,
+    "Upper bound (95% CI)": -0.202,
+    "Lower bound (95% CI)": -0.233
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1973,
+    "Median temperature anomaly from 1961-1990 average": 0.024,
+    "Upper bound (95% CI)": 0.04,
+    "Lower bound (95% CI)": 0.014
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1974,
+    "Median temperature anomaly from 1961-1990 average": -0.261,
+    "Upper bound (95% CI)": -0.247,
+    "Lower bound (95% CI)": -0.274
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1975,
+    "Median temperature anomaly from 1961-1990 average": -0.123,
+    "Upper bound (95% CI)": -0.112,
+    "Lower bound (95% CI)": -0.134
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1976,
+    "Median temperature anomaly from 1961-1990 average": -0.293,
+    "Upper bound (95% CI)": -0.281,
+    "Lower bound (95% CI)": -0.304
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1977,
+    "Median temperature anomaly from 1961-1990 average": 0.034,
+    "Upper bound (95% CI)": 0.048,
+    "Lower bound (95% CI)": 0.022
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1978,
+    "Median temperature anomaly from 1961-1990 average": -0.056,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.069
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1979,
+    "Median temperature anomaly from 1961-1990 average": 0.006,
+    "Upper bound (95% CI)": 0.02,
+    "Lower bound (95% CI)": -0.009
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1980,
+    "Median temperature anomaly from 1961-1990 average": 0.068,
+    "Upper bound (95% CI)": 0.079,
+    "Lower bound (95% CI)": 0.057
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1981,
+    "Median temperature anomaly from 1961-1990 average": 0.236,
+    "Upper bound (95% CI)": 0.246,
+    "Lower bound (95% CI)": 0.222
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1982,
+    "Median temperature anomaly from 1961-1990 average": -0.029,
+    "Upper bound (95% CI)": -0.015,
+    "Lower bound (95% CI)": -0.049
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1983,
+    "Median temperature anomaly from 1961-1990 average": 0.168,
+    "Upper bound (95% CI)": 0.183,
+    "Lower bound (95% CI)": 0.149
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1984,
+    "Median temperature anomaly from 1961-1990 average": -0.085,
+    "Upper bound (95% CI)": -0.067,
+    "Lower bound (95% CI)": -0.1
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1985,
+    "Median temperature anomaly from 1961-1990 average": -0.131,
+    "Upper bound (95% CI)": -0.114,
+    "Lower bound (95% CI)": -0.148
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1986,
+    "Median temperature anomaly from 1961-1990 average": 0.026,
+    "Upper bound (95% CI)": 0.044,
+    "Lower bound (95% CI)": 0.008
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1987,
+    "Median temperature anomaly from 1961-1990 average": 0.153,
+    "Upper bound (95% CI)": 0.174,
+    "Lower bound (95% CI)": 0.136
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1988,
+    "Median temperature anomaly from 1961-1990 average": 0.233,
+    "Upper bound (95% CI)": 0.253,
+    "Lower bound (95% CI)": 0.211
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1989,
+    "Median temperature anomaly from 1961-1990 average": 0.164,
+    "Upper bound (95% CI)": 0.189,
+    "Lower bound (95% CI)": 0.14
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1990,
+    "Median temperature anomaly from 1961-1990 average": 0.412,
+    "Upper bound (95% CI)": 0.443,
+    "Lower bound (95% CI)": 0.387
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1991,
+    "Median temperature anomaly from 1961-1990 average": 0.316,
+    "Upper bound (95% CI)": 0.344,
+    "Lower bound (95% CI)": 0.288
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1992,
+    "Median temperature anomaly from 1961-1990 average": 0.074,
+    "Upper bound (95% CI)": 0.103,
+    "Lower bound (95% CI)": 0.047
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1993,
+    "Median temperature anomaly from 1961-1990 average": 0.13,
+    "Upper bound (95% CI)": 0.16,
+    "Lower bound (95% CI)": 0.101
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1994,
+    "Median temperature anomaly from 1961-1990 average": 0.28,
+    "Upper bound (95% CI)": 0.308,
+    "Lower bound (95% CI)": 0.248
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1995,
+    "Median temperature anomaly from 1961-1990 average": 0.47,
+    "Upper bound (95% CI)": 0.497,
+    "Lower bound (95% CI)": 0.437
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1996,
+    "Median temperature anomaly from 1961-1990 average": 0.175,
+    "Upper bound (95% CI)": 0.198,
+    "Lower bound (95% CI)": 0.143
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1997,
+    "Median temperature anomaly from 1961-1990 average": 0.456,
+    "Upper bound (95% CI)": 0.48,
+    "Lower bound (95% CI)": 0.426
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1998,
+    "Median temperature anomaly from 1961-1990 average": 0.614,
+    "Upper bound (95% CI)": 0.645,
+    "Lower bound (95% CI)": 0.579
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 1999,
+    "Median temperature anomaly from 1961-1990 average": 0.408,
+    "Upper bound (95% CI)": 0.436,
+    "Lower bound (95% CI)": 0.374
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2000,
+    "Median temperature anomaly from 1961-1990 average": 0.404,
+    "Upper bound (95% CI)": 0.435,
+    "Lower bound (95% CI)": 0.373
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2001,
+    "Median temperature anomaly from 1961-1990 average": 0.558,
+    "Upper bound (95% CI)": 0.588,
+    "Lower bound (95% CI)": 0.529
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2002,
+    "Median temperature anomaly from 1961-1990 average": 0.593,
+    "Upper bound (95% CI)": 0.627,
+    "Lower bound (95% CI)": 0.562
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2003,
+    "Median temperature anomaly from 1961-1990 average": 0.642,
+    "Upper bound (95% CI)": 0.679,
+    "Lower bound (95% CI)": 0.608
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2004,
+    "Median temperature anomaly from 1961-1990 average": 0.604,
+    "Upper bound (95% CI)": 0.636,
+    "Lower bound (95% CI)": 0.571
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2005,
+    "Median temperature anomaly from 1961-1990 average": 0.724,
+    "Upper bound (95% CI)": 0.758,
+    "Lower bound (95% CI)": 0.69
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2006,
+    "Median temperature anomaly from 1961-1990 average": 0.676,
+    "Upper bound (95% CI)": 0.707,
+    "Lower bound (95% CI)": 0.641
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2007,
+    "Median temperature anomaly from 1961-1990 average": 0.713,
+    "Upper bound (95% CI)": 0.742,
+    "Lower bound (95% CI)": 0.677
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2008,
+    "Median temperature anomaly from 1961-1990 average": 0.569,
+    "Upper bound (95% CI)": 0.597,
+    "Lower bound (95% CI)": 0.535
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2009,
+    "Median temperature anomaly from 1961-1990 average": 0.594,
+    "Upper bound (95% CI)": 0.624,
+    "Lower bound (95% CI)": 0.561
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2010,
+    "Median temperature anomaly from 1961-1990 average": 0.74,
+    "Upper bound (95% CI)": 0.77,
+    "Lower bound (95% CI)": 0.705
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2011,
+    "Median temperature anomaly from 1961-1990 average": 0.575,
+    "Upper bound (95% CI)": 0.606,
+    "Lower bound (95% CI)": 0.535
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2012,
+    "Median temperature anomaly from 1961-1990 average": 0.627,
+    "Upper bound (95% CI)": 0.657,
+    "Lower bound (95% CI)": 0.592
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2013,
+    "Median temperature anomaly from 1961-1990 average": 0.674,
+    "Upper bound (95% CI)": 0.707,
+    "Lower bound (95% CI)": 0.641
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2014,
+    "Median temperature anomaly from 1961-1990 average": 0.779,
+    "Upper bound (95% CI)": 0.809,
+    "Lower bound (95% CI)": 0.744
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2015,
+    "Median temperature anomaly from 1961-1990 average": 1.033,
+    "Upper bound (95% CI)": 1.061,
+    "Lower bound (95% CI)": 0.997
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2016,
+    "Median temperature anomaly from 1961-1990 average": 1.064,
+    "Upper bound (95% CI)": 1.096,
+    "Lower bound (95% CI)": 1.027
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2017,
+    "Median temperature anomaly from 1961-1990 average": 0.922,
+    "Upper bound (95% CI)": 0.954,
+    "Lower bound (95% CI)": 0.885
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2018,
+    "Median temperature anomaly from 1961-1990 average": 0.789,
+    "Upper bound (95% CI)": 0.824,
+    "Lower bound (95% CI)": 0.757
+  },
+  {
+    "Entity": "Northern Hemisphere",
+    "Year": 2019,
+    "Median temperature anomaly from 1961-1990 average": 0.972,
+    "Upper bound (95% CI)": 1.007,
+    "Lower bound (95% CI)": 0.937
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1850,
+    "Median temperature anomaly from 1961-1990 average": -0.408,
+    "Upper bound (95% CI)": -0.382,
+    "Lower bound (95% CI)": -0.451
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1851,
+    "Median temperature anomaly from 1961-1990 average": -0.277,
+    "Upper bound (95% CI)": -0.249,
+    "Lower bound (95% CI)": -0.322
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1852,
+    "Median temperature anomaly from 1961-1990 average": -0.349,
+    "Upper bound (95% CI)": -0.323,
+    "Lower bound (95% CI)": -0.39
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1853,
+    "Median temperature anomaly from 1961-1990 average": -0.361,
+    "Upper bound (95% CI)": -0.341,
+    "Lower bound (95% CI)": -0.403
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1854,
+    "Median temperature anomaly from 1961-1990 average": -0.425,
+    "Upper bound (95% CI)": -0.403,
+    "Lower bound (95% CI)": -0.463
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1855,
+    "Median temperature anomaly from 1961-1990 average": -0.354,
+    "Upper bound (95% CI)": -0.332,
+    "Lower bound (95% CI)": -0.393
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1856,
+    "Median temperature anomaly from 1961-1990 average": -0.336,
+    "Upper bound (95% CI)": -0.311,
+    "Lower bound (95% CI)": -0.374
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1857,
+    "Median temperature anomaly from 1961-1990 average": -0.516,
+    "Upper bound (95% CI)": -0.491,
+    "Lower bound (95% CI)": -0.547
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1858,
+    "Median temperature anomaly from 1961-1990 average": -0.528,
+    "Upper bound (95% CI)": -0.503,
+    "Lower bound (95% CI)": -0.565
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1859,
+    "Median temperature anomaly from 1961-1990 average": -0.355,
+    "Upper bound (95% CI)": -0.326,
+    "Lower bound (95% CI)": -0.386
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1860,
+    "Median temperature anomaly from 1961-1990 average": -0.33,
+    "Upper bound (95% CI)": -0.303,
+    "Lower bound (95% CI)": -0.362
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1861,
+    "Median temperature anomaly from 1961-1990 average": -0.516,
+    "Upper bound (95% CI)": -0.481,
+    "Lower bound (95% CI)": -0.554
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1862,
+    "Median temperature anomaly from 1961-1990 average": -0.38,
+    "Upper bound (95% CI)": -0.347,
+    "Lower bound (95% CI)": -0.416
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1863,
+    "Median temperature anomaly from 1961-1990 average": -0.361,
+    "Upper bound (95% CI)": -0.33,
+    "Lower bound (95% CI)": -0.402
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1864,
+    "Median temperature anomaly from 1961-1990 average": -0.472,
+    "Upper bound (95% CI)": -0.435,
+    "Lower bound (95% CI)": -0.511
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1865,
+    "Median temperature anomaly from 1961-1990 average": -0.312,
+    "Upper bound (95% CI)": -0.273,
+    "Lower bound (95% CI)": -0.352
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1866,
+    "Median temperature anomaly from 1961-1990 average": -0.298,
+    "Upper bound (95% CI)": -0.262,
+    "Lower bound (95% CI)": -0.336
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1867,
+    "Median temperature anomaly from 1961-1990 average": -0.299,
+    "Upper bound (95% CI)": -0.266,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1868,
+    "Median temperature anomaly from 1961-1990 average": -0.35,
+    "Upper bound (95% CI)": -0.322,
+    "Lower bound (95% CI)": -0.381
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1869,
+    "Median temperature anomaly from 1961-1990 average": -0.397,
+    "Upper bound (95% CI)": -0.373,
+    "Lower bound (95% CI)": -0.427
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1870,
+    "Median temperature anomaly from 1961-1990 average": -0.349,
+    "Upper bound (95% CI)": -0.328,
+    "Lower bound (95% CI)": -0.379
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1871,
+    "Median temperature anomaly from 1961-1990 average": -0.266,
+    "Upper bound (95% CI)": -0.243,
+    "Lower bound (95% CI)": -0.296
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1872,
+    "Median temperature anomaly from 1961-1990 average": -0.271,
+    "Upper bound (95% CI)": -0.249,
+    "Lower bound (95% CI)": -0.302
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1873,
+    "Median temperature anomaly from 1961-1990 average": -0.312,
+    "Upper bound (95% CI)": -0.285,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1874,
+    "Median temperature anomaly from 1961-1990 average": -0.466,
+    "Upper bound (95% CI)": -0.438,
+    "Lower bound (95% CI)": -0.499
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1875,
+    "Median temperature anomaly from 1961-1990 average": -0.285,
+    "Upper bound (95% CI)": -0.258,
+    "Lower bound (95% CI)": -0.321
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1876,
+    "Median temperature anomaly from 1961-1990 average": -0.421,
+    "Upper bound (95% CI)": -0.396,
+    "Lower bound (95% CI)": -0.453
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1877,
+    "Median temperature anomaly from 1961-1990 average": -0.154,
+    "Upper bound (95% CI)": -0.127,
+    "Lower bound (95% CI)": -0.193
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1878,
+    "Median temperature anomaly from 1961-1990 average": -0.117,
+    "Upper bound (95% CI)": -0.09,
+    "Lower bound (95% CI)": -0.147
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1879,
+    "Median temperature anomaly from 1961-1990 average": -0.237,
+    "Upper bound (95% CI)": -0.212,
+    "Lower bound (95% CI)": -0.263
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1880,
+    "Median temperature anomaly from 1961-1990 average": -0.214,
+    "Upper bound (95% CI)": -0.189,
+    "Lower bound (95% CI)": -0.244
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1881,
+    "Median temperature anomaly from 1961-1990 average": -0.16,
+    "Upper bound (95% CI)": -0.138,
+    "Lower bound (95% CI)": -0.19
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1882,
+    "Median temperature anomaly from 1961-1990 average": -0.184,
+    "Upper bound (95% CI)": -0.162,
+    "Lower bound (95% CI)": -0.21
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1883,
+    "Median temperature anomaly from 1961-1990 average": -0.228,
+    "Upper bound (95% CI)": -0.207,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1884,
+    "Median temperature anomaly from 1961-1990 average": -0.344,
+    "Upper bound (95% CI)": -0.322,
+    "Lower bound (95% CI)": -0.367
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1885,
+    "Median temperature anomaly from 1961-1990 average": -0.408,
+    "Upper bound (95% CI)": -0.388,
+    "Lower bound (95% CI)": -0.436
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1886,
+    "Median temperature anomaly from 1961-1990 average": -0.398,
+    "Upper bound (95% CI)": -0.377,
+    "Lower bound (95% CI)": -0.422
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1887,
+    "Median temperature anomaly from 1961-1990 average": -0.481,
+    "Upper bound (95% CI)": -0.462,
+    "Lower bound (95% CI)": -0.507
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1888,
+    "Median temperature anomaly from 1961-1990 average": -0.35,
+    "Upper bound (95% CI)": -0.328,
+    "Lower bound (95% CI)": -0.375
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1889,
+    "Median temperature anomaly from 1961-1990 average": -0.207,
+    "Upper bound (95% CI)": -0.183,
+    "Lower bound (95% CI)": -0.234
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1890,
+    "Median temperature anomaly from 1961-1990 average": -0.476,
+    "Upper bound (95% CI)": -0.452,
+    "Lower bound (95% CI)": -0.503
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1891,
+    "Median temperature anomaly from 1961-1990 average": -0.378,
+    "Upper bound (95% CI)": -0.352,
+    "Lower bound (95% CI)": -0.41
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1892,
+    "Median temperature anomaly from 1961-1990 average": -0.45,
+    "Upper bound (95% CI)": -0.422,
+    "Lower bound (95% CI)": -0.484
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1893,
+    "Median temperature anomaly from 1961-1990 average": -0.405,
+    "Upper bound (95% CI)": -0.375,
+    "Lower bound (95% CI)": -0.439
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1894,
+    "Median temperature anomaly from 1961-1990 average": -0.442,
+    "Upper bound (95% CI)": -0.416,
+    "Lower bound (95% CI)": -0.473
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1895,
+    "Median temperature anomaly from 1961-1990 average": -0.414,
+    "Upper bound (95% CI)": -0.392,
+    "Lower bound (95% CI)": -0.441
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1896,
+    "Median temperature anomaly from 1961-1990 average": -0.221,
+    "Upper bound (95% CI)": -0.197,
+    "Lower bound (95% CI)": -0.249
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1897,
+    "Median temperature anomaly from 1961-1990 average": -0.273,
+    "Upper bound (95% CI)": -0.25,
+    "Lower bound (95% CI)": -0.301
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1898,
+    "Median temperature anomaly from 1961-1990 average": -0.538,
+    "Upper bound (95% CI)": -0.511,
+    "Lower bound (95% CI)": -0.569
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1899,
+    "Median temperature anomaly from 1961-1990 average": -0.36,
+    "Upper bound (95% CI)": -0.331,
+    "Lower bound (95% CI)": -0.393
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1900,
+    "Median temperature anomaly from 1961-1990 average": -0.314,
+    "Upper bound (95% CI)": -0.286,
+    "Lower bound (95% CI)": -0.347
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1901,
+    "Median temperature anomaly from 1961-1990 average": -0.394,
+    "Upper bound (95% CI)": -0.362,
+    "Lower bound (95% CI)": -0.433
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1902,
+    "Median temperature anomaly from 1961-1990 average": -0.439,
+    "Upper bound (95% CI)": -0.408,
+    "Lower bound (95% CI)": -0.472
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1903,
+    "Median temperature anomaly from 1961-1990 average": -0.561,
+    "Upper bound (95% CI)": -0.529,
+    "Lower bound (95% CI)": -0.59
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1904,
+    "Median temperature anomaly from 1961-1990 average": -0.556,
+    "Upper bound (95% CI)": -0.524,
+    "Lower bound (95% CI)": -0.589
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1905,
+    "Median temperature anomaly from 1961-1990 average": -0.421,
+    "Upper bound (95% CI)": -0.384,
+    "Lower bound (95% CI)": -0.455
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1906,
+    "Median temperature anomaly from 1961-1990 average": -0.367,
+    "Upper bound (95% CI)": -0.337,
+    "Lower bound (95% CI)": -0.402
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1907,
+    "Median temperature anomaly from 1961-1990 average": -0.457,
+    "Upper bound (95% CI)": -0.424,
+    "Lower bound (95% CI)": -0.494
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1908,
+    "Median temperature anomaly from 1961-1990 average": -0.566,
+    "Upper bound (95% CI)": -0.534,
+    "Lower bound (95% CI)": -0.599
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1909,
+    "Median temperature anomaly from 1961-1990 average": -0.597,
+    "Upper bound (95% CI)": -0.566,
+    "Lower bound (95% CI)": -0.631
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1910,
+    "Median temperature anomaly from 1961-1990 average": -0.567,
+    "Upper bound (95% CI)": -0.525,
+    "Lower bound (95% CI)": -0.606
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1911,
+    "Median temperature anomaly from 1961-1990 average": -0.668,
+    "Upper bound (95% CI)": -0.63,
+    "Lower bound (95% CI)": -0.704
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1912,
+    "Median temperature anomaly from 1961-1990 average": -0.412,
+    "Upper bound (95% CI)": -0.373,
+    "Lower bound (95% CI)": -0.448
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1913,
+    "Median temperature anomaly from 1961-1990 average": -0.4,
+    "Upper bound (95% CI)": -0.365,
+    "Lower bound (95% CI)": -0.438
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1914,
+    "Median temperature anomaly from 1961-1990 average": -0.253,
+    "Upper bound (95% CI)": -0.211,
+    "Lower bound (95% CI)": -0.295
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1915,
+    "Median temperature anomaly from 1961-1990 average": -0.16,
+    "Upper bound (95% CI)": -0.101,
+    "Lower bound (95% CI)": -0.217
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1916,
+    "Median temperature anomaly from 1961-1990 average": -0.379,
+    "Upper bound (95% CI)": -0.328,
+    "Lower bound (95% CI)": -0.434
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1917,
+    "Median temperature anomaly from 1961-1990 average": -0.443,
+    "Upper bound (95% CI)": -0.386,
+    "Lower bound (95% CI)": -0.5
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1918,
+    "Median temperature anomaly from 1961-1990 average": -0.314,
+    "Upper bound (95% CI)": -0.237,
+    "Lower bound (95% CI)": -0.382
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1919,
+    "Median temperature anomaly from 1961-1990 average": -0.193,
+    "Upper bound (95% CI)": -0.118,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1920,
+    "Median temperature anomaly from 1961-1990 average": -0.219,
+    "Upper bound (95% CI)": -0.157,
+    "Lower bound (95% CI)": -0.275
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1921,
+    "Median temperature anomaly from 1961-1990 average": -0.277,
+    "Upper bound (95% CI)": -0.236,
+    "Lower bound (95% CI)": -0.322
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1922,
+    "Median temperature anomaly from 1961-1990 average": -0.359,
+    "Upper bound (95% CI)": -0.32,
+    "Lower bound (95% CI)": -0.399
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1923,
+    "Median temperature anomaly from 1961-1990 average": -0.325,
+    "Upper bound (95% CI)": -0.284,
+    "Lower bound (95% CI)": -0.367
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1924,
+    "Median temperature anomaly from 1961-1990 average": -0.368,
+    "Upper bound (95% CI)": -0.33,
+    "Lower bound (95% CI)": -0.407
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1925,
+    "Median temperature anomaly from 1961-1990 average": -0.319,
+    "Upper bound (95% CI)": -0.276,
+    "Lower bound (95% CI)": -0.361
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1926,
+    "Median temperature anomaly from 1961-1990 average": -0.209,
+    "Upper bound (95% CI)": -0.171,
+    "Lower bound (95% CI)": -0.25
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1927,
+    "Median temperature anomaly from 1961-1990 average": -0.309,
+    "Upper bound (95% CI)": -0.275,
+    "Lower bound (95% CI)": -0.344
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1928,
+    "Median temperature anomaly from 1961-1990 average": -0.273,
+    "Upper bound (95% CI)": -0.237,
+    "Lower bound (95% CI)": -0.314
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1929,
+    "Median temperature anomaly from 1961-1990 average": -0.384,
+    "Upper bound (95% CI)": -0.343,
+    "Lower bound (95% CI)": -0.427
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1930,
+    "Median temperature anomaly from 1961-1990 average": -0.263,
+    "Upper bound (95% CI)": -0.218,
+    "Lower bound (95% CI)": -0.308
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1931,
+    "Median temperature anomaly from 1961-1990 average": -0.209,
+    "Upper bound (95% CI)": -0.168,
+    "Lower bound (95% CI)": -0.257
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1932,
+    "Median temperature anomaly from 1961-1990 average": -0.205,
+    "Upper bound (95% CI)": -0.169,
+    "Lower bound (95% CI)": -0.253
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1933,
+    "Median temperature anomaly from 1961-1990 average": -0.307,
+    "Upper bound (95% CI)": -0.269,
+    "Lower bound (95% CI)": -0.355
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1934,
+    "Median temperature anomaly from 1961-1990 average": -0.228,
+    "Upper bound (95% CI)": -0.193,
+    "Lower bound (95% CI)": -0.276
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1935,
+    "Median temperature anomaly from 1961-1990 average": -0.259,
+    "Upper bound (95% CI)": -0.224,
+    "Lower bound (95% CI)": -0.307
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1936,
+    "Median temperature anomaly from 1961-1990 average": -0.246,
+    "Upper bound (95% CI)": -0.214,
+    "Lower bound (95% CI)": -0.289
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1937,
+    "Median temperature anomaly from 1961-1990 average": -0.127,
+    "Upper bound (95% CI)": -0.096,
+    "Lower bound (95% CI)": -0.173
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1938,
+    "Median temperature anomaly from 1961-1990 average": -0.12,
+    "Upper bound (95% CI)": -0.092,
+    "Lower bound (95% CI)": -0.166
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1939,
+    "Median temperature anomaly from 1961-1990 average": -0.145,
+    "Upper bound (95% CI)": -0.114,
+    "Lower bound (95% CI)": -0.187
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1940,
+    "Median temperature anomaly from 1961-1990 average": 0.018,
+    "Upper bound (95% CI)": 0.056,
+    "Lower bound (95% CI)": -0.029
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1941,
+    "Median temperature anomaly from 1961-1990 average": 0.002,
+    "Upper bound (95% CI)": 0.036,
+    "Lower bound (95% CI)": -0.049
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1942,
+    "Median temperature anomaly from 1961-1990 average": -0.076,
+    "Upper bound (95% CI)": -0.028,
+    "Lower bound (95% CI)": -0.154
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1943,
+    "Median temperature anomaly from 1961-1990 average": -0.111,
+    "Upper bound (95% CI)": -0.066,
+    "Lower bound (95% CI)": -0.179
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1944,
+    "Median temperature anomaly from 1961-1990 average": 0.102,
+    "Upper bound (95% CI)": 0.145,
+    "Lower bound (95% CI)": 0.035
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1945,
+    "Median temperature anomaly from 1961-1990 average": 0.027,
+    "Upper bound (95% CI)": 0.068,
+    "Lower bound (95% CI)": -0.034
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1946,
+    "Median temperature anomaly from 1961-1990 average": -0.168,
+    "Upper bound (95% CI)": -0.123,
+    "Lower bound (95% CI)": -0.218
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1947,
+    "Median temperature anomaly from 1961-1990 average": -0.095,
+    "Upper bound (95% CI)": -0.045,
+    "Lower bound (95% CI)": -0.163
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1948,
+    "Median temperature anomaly from 1961-1990 average": -0.159,
+    "Upper bound (95% CI)": -0.105,
+    "Lower bound (95% CI)": -0.234
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1949,
+    "Median temperature anomaly from 1961-1990 average": -0.127,
+    "Upper bound (95% CI)": -0.076,
+    "Lower bound (95% CI)": -0.19
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1950,
+    "Median temperature anomaly from 1961-1990 average": -0.183,
+    "Upper bound (95% CI)": -0.129,
+    "Lower bound (95% CI)": -0.245
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1951,
+    "Median temperature anomaly from 1961-1990 average": -0.156,
+    "Upper bound (95% CI)": -0.11,
+    "Lower bound (95% CI)": -0.211
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1952,
+    "Median temperature anomaly from 1961-1990 average": 0.019,
+    "Upper bound (95% CI)": 0.064,
+    "Lower bound (95% CI)": -0.033
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1953,
+    "Median temperature anomaly from 1961-1990 average": -0.003,
+    "Upper bound (95% CI)": 0.038,
+    "Lower bound (95% CI)": -0.061
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1954,
+    "Median temperature anomaly from 1961-1990 average": -0.2,
+    "Upper bound (95% CI)": -0.161,
+    "Lower bound (95% CI)": -0.25
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1955,
+    "Median temperature anomaly from 1961-1990 average": -0.29,
+    "Upper bound (95% CI)": -0.25,
+    "Lower bound (95% CI)": -0.333
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1956,
+    "Median temperature anomaly from 1961-1990 average": -0.269,
+    "Upper bound (95% CI)": -0.234,
+    "Lower bound (95% CI)": -0.308
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1957,
+    "Median temperature anomaly from 1961-1990 average": -0.023,
+    "Upper bound (95% CI)": 0.014,
+    "Lower bound (95% CI)": -0.06
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1958,
+    "Median temperature anomaly from 1961-1990 average": -0.024,
+    "Upper bound (95% CI)": 0.015,
+    "Lower bound (95% CI)": -0.059
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1959,
+    "Median temperature anomaly from 1961-1990 average": -0.038,
+    "Upper bound (95% CI)": -0.008,
+    "Lower bound (95% CI)": -0.072
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1960,
+    "Median temperature anomaly from 1961-1990 average": -0.113,
+    "Upper bound (95% CI)": -0.08,
+    "Lower bound (95% CI)": -0.147
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1961,
+    "Median temperature anomaly from 1961-1990 average": 0.015,
+    "Upper bound (95% CI)": 0.039,
+    "Lower bound (95% CI)": -0.029
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1962,
+    "Median temperature anomaly from 1961-1990 average": -0.058,
+    "Upper bound (95% CI)": -0.036,
+    "Lower bound (95% CI)": -0.093
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1963,
+    "Median temperature anomaly from 1961-1990 average": -0.051,
+    "Upper bound (95% CI)": -0.023,
+    "Lower bound (95% CI)": -0.085
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1964,
+    "Median temperature anomaly from 1961-1990 average": -0.275,
+    "Upper bound (95% CI)": -0.249,
+    "Lower bound (95% CI)": -0.303
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1965,
+    "Median temperature anomaly from 1961-1990 average": -0.147,
+    "Upper bound (95% CI)": -0.119,
+    "Lower bound (95% CI)": -0.174
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1966,
+    "Median temperature anomaly from 1961-1990 average": -0.14,
+    "Upper bound (95% CI)": -0.113,
+    "Lower bound (95% CI)": -0.165
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1967,
+    "Median temperature anomaly from 1961-1990 average": -0.174,
+    "Upper bound (95% CI)": -0.15,
+    "Lower bound (95% CI)": -0.199
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1968,
+    "Median temperature anomaly from 1961-1990 average": -0.162,
+    "Upper bound (95% CI)": -0.14,
+    "Lower bound (95% CI)": -0.186
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1969,
+    "Median temperature anomaly from 1961-1990 average": 0.118,
+    "Upper bound (95% CI)": 0.142,
+    "Lower bound (95% CI)": 0.094
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1970,
+    "Median temperature anomaly from 1961-1990 average": 0.001,
+    "Upper bound (95% CI)": 0.028,
+    "Lower bound (95% CI)": -0.023
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1971,
+    "Median temperature anomaly from 1961-1990 average": -0.18,
+    "Upper bound (95% CI)": -0.153,
+    "Lower bound (95% CI)": -0.2
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1972,
+    "Median temperature anomaly from 1961-1990 average": 0.09,
+    "Upper bound (95% CI)": 0.121,
+    "Lower bound (95% CI)": 0.071
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1973,
+    "Median temperature anomaly from 1961-1990 average": 0.099,
+    "Upper bound (95% CI)": 0.123,
+    "Lower bound (95% CI)": 0.086
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1974,
+    "Median temperature anomaly from 1961-1990 average": -0.166,
+    "Upper bound (95% CI)": -0.148,
+    "Lower bound (95% CI)": -0.18
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1975,
+    "Median temperature anomaly from 1961-1990 average": -0.175,
+    "Upper bound (95% CI)": -0.157,
+    "Lower bound (95% CI)": -0.192
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1976,
+    "Median temperature anomaly from 1961-1990 average": -0.19,
+    "Upper bound (95% CI)": -0.171,
+    "Lower bound (95% CI)": -0.205
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1977,
+    "Median temperature anomaly from 1961-1990 average": 0.059,
+    "Upper bound (95% CI)": 0.081,
+    "Lower bound (95% CI)": 0.044
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1978,
+    "Median temperature anomaly from 1961-1990 average": -0.068,
+    "Upper bound (95% CI)": -0.046,
+    "Lower bound (95% CI)": -0.085
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1979,
+    "Median temperature anomaly from 1961-1990 average": 0.107,
+    "Upper bound (95% CI)": 0.128,
+    "Lower bound (95% CI)": 0.087
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1980,
+    "Median temperature anomaly from 1961-1990 average": 0.116,
+    "Upper bound (95% CI)": 0.134,
+    "Lower bound (95% CI)": 0.095
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1981,
+    "Median temperature anomaly from 1961-1990 average": 0.043,
+    "Upper bound (95% CI)": 0.061,
+    "Lower bound (95% CI)": 0.023
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1982,
+    "Median temperature anomaly from 1961-1990 average": 0.052,
+    "Upper bound (95% CI)": 0.074,
+    "Lower bound (95% CI)": 0.027
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1983,
+    "Median temperature anomaly from 1961-1990 average": 0.22,
+    "Upper bound (95% CI)": 0.24,
+    "Lower bound (95% CI)": 0.197
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1984,
+    "Median temperature anomaly from 1961-1990 average": 0.056,
+    "Upper bound (95% CI)": 0.078,
+    "Lower bound (95% CI)": 0.033
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1985,
+    "Median temperature anomaly from 1961-1990 average": 0.071,
+    "Upper bound (95% CI)": 0.089,
+    "Lower bound (95% CI)": 0.05
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1986,
+    "Median temperature anomaly from 1961-1990 average": 0.064,
+    "Upper bound (95% CI)": 0.089,
+    "Lower bound (95% CI)": 0.038
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1987,
+    "Median temperature anomaly from 1961-1990 average": 0.231,
+    "Upper bound (95% CI)": 0.262,
+    "Lower bound (95% CI)": 0.206
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1988,
+    "Median temperature anomaly from 1961-1990 average": 0.164,
+    "Upper bound (95% CI)": 0.192,
+    "Lower bound (95% CI)": 0.14
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1989,
+    "Median temperature anomaly from 1961-1990 average": 0.072,
+    "Upper bound (95% CI)": 0.107,
+    "Lower bound (95% CI)": 0.042
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1990,
+    "Median temperature anomaly from 1961-1990 average": 0.181,
+    "Upper bound (95% CI)": 0.22,
+    "Lower bound (95% CI)": 0.148
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1991,
+    "Median temperature anomaly from 1961-1990 average": 0.193,
+    "Upper bound (95% CI)": 0.233,
+    "Lower bound (95% CI)": 0.153
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1992,
+    "Median temperature anomaly from 1961-1990 average": 0.136,
+    "Upper bound (95% CI)": 0.176,
+    "Lower bound (95% CI)": 0.094
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1993,
+    "Median temperature anomaly from 1961-1990 average": 0.167,
+    "Upper bound (95% CI)": 0.212,
+    "Lower bound (95% CI)": 0.127
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1994,
+    "Median temperature anomaly from 1961-1990 average": 0.138,
+    "Upper bound (95% CI)": 0.186,
+    "Lower bound (95% CI)": 0.097
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1995,
+    "Median temperature anomaly from 1961-1990 average": 0.179,
+    "Upper bound (95% CI)": 0.225,
+    "Lower bound (95% CI)": 0.14
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1996,
+    "Median temperature anomaly from 1961-1990 average": 0.187,
+    "Upper bound (95% CI)": 0.235,
+    "Lower bound (95% CI)": 0.149
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1997,
+    "Median temperature anomaly from 1961-1990 average": 0.323,
+    "Upper bound (95% CI)": 0.371,
+    "Lower bound (95% CI)": 0.285
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1998,
+    "Median temperature anomaly from 1961-1990 average": 0.465,
+    "Upper bound (95% CI)": 0.511,
+    "Lower bound (95% CI)": 0.417
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 1999,
+    "Median temperature anomaly from 1961-1990 average": 0.204,
+    "Upper bound (95% CI)": 0.254,
+    "Lower bound (95% CI)": 0.157
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2000,
+    "Median temperature anomaly from 1961-1990 average": 0.184,
+    "Upper bound (95% CI)": 0.239,
+    "Lower bound (95% CI)": 0.143
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2001,
+    "Median temperature anomaly from 1961-1990 average": 0.323,
+    "Upper bound (95% CI)": 0.378,
+    "Lower bound (95% CI)": 0.283
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2002,
+    "Median temperature anomaly from 1961-1990 average": 0.398,
+    "Upper bound (95% CI)": 0.451,
+    "Lower bound (95% CI)": 0.36
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2003,
+    "Median temperature anomaly from 1961-1990 average": 0.369,
+    "Upper bound (95% CI)": 0.422,
+    "Lower bound (95% CI)": 0.334
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2004,
+    "Median temperature anomaly from 1961-1990 average": 0.289,
+    "Upper bound (95% CI)": 0.337,
+    "Lower bound (95% CI)": 0.25
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2005,
+    "Median temperature anomaly from 1961-1990 average": 0.367,
+    "Upper bound (95% CI)": 0.418,
+    "Lower bound (95% CI)": 0.324
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2006,
+    "Median temperature anomaly from 1961-1990 average": 0.336,
+    "Upper bound (95% CI)": 0.389,
+    "Lower bound (95% CI)": 0.293
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2007,
+    "Median temperature anomaly from 1961-1990 average": 0.27,
+    "Upper bound (95% CI)": 0.325,
+    "Lower bound (95% CI)": 0.226
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2008,
+    "Median temperature anomaly from 1961-1990 average": 0.22,
+    "Upper bound (95% CI)": 0.273,
+    "Lower bound (95% CI)": 0.175
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2009,
+    "Median temperature anomaly from 1961-1990 average": 0.413,
+    "Upper bound (95% CI)": 0.468,
+    "Lower bound (95% CI)": 0.367
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2010,
+    "Median temperature anomaly from 1961-1990 average": 0.379,
+    "Upper bound (95% CI)": 0.435,
+    "Lower bound (95% CI)": 0.336
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2011,
+    "Median temperature anomaly from 1961-1990 average": 0.275,
+    "Upper bound (95% CI)": 0.332,
+    "Lower bound (95% CI)": 0.234
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2012,
+    "Median temperature anomaly from 1961-1990 average": 0.312,
+    "Upper bound (95% CI)": 0.366,
+    "Lower bound (95% CI)": 0.275
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2013,
+    "Median temperature anomaly from 1961-1990 average": 0.352,
+    "Upper bound (95% CI)": 0.406,
+    "Lower bound (95% CI)": 0.31
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2014,
+    "Median temperature anomaly from 1961-1990 average": 0.381,
+    "Upper bound (95% CI)": 0.432,
+    "Lower bound (95% CI)": 0.339
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2015,
+    "Median temperature anomaly from 1961-1990 average": 0.497,
+    "Upper bound (95% CI)": 0.548,
+    "Lower bound (95% CI)": 0.455
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2016,
+    "Median temperature anomaly from 1961-1990 average": 0.531,
+    "Upper bound (95% CI)": 0.584,
+    "Lower bound (95% CI)": 0.488
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2017,
+    "Median temperature anomaly from 1961-1990 average": 0.434,
+    "Upper bound (95% CI)": 0.486,
+    "Lower bound (95% CI)": 0.39
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2018,
+    "Median temperature anomaly from 1961-1990 average": 0.405,
+    "Upper bound (95% CI)": 0.461,
+    "Lower bound (95% CI)": 0.36
+  },
+  {
+    "Entity": "Southern Hemisphere",
+    "Year": 2019,
+    "Median temperature anomaly from 1961-1990 average": 0.502,
+    "Upper bound (95% CI)": 0.555,
+    "Lower bound (95% CI)": 0.456
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1850,
+    "Median temperature anomaly from 1961-1990 average": -0.308,
+    "Upper bound (95% CI)": -0.278,
+    "Lower bound (95% CI)": -0.363
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1851,
+    "Median temperature anomaly from 1961-1990 average": -0.229,
+    "Upper bound (95% CI)": -0.198,
+    "Lower bound (95% CI)": -0.28
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1852,
+    "Median temperature anomaly from 1961-1990 average": -0.133,
+    "Upper bound (95% CI)": -0.104,
+    "Lower bound (95% CI)": -0.184
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1853,
+    "Median temperature anomaly from 1961-1990 average": -0.141,
+    "Upper bound (95% CI)": -0.115,
+    "Lower bound (95% CI)": -0.195
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1854,
+    "Median temperature anomaly from 1961-1990 average": -0.2,
+    "Upper bound (95% CI)": -0.172,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1855,
+    "Median temperature anomaly from 1961-1990 average": -0.247,
+    "Upper bound (95% CI)": -0.217,
+    "Lower bound (95% CI)": -0.299
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1856,
+    "Median temperature anomaly from 1961-1990 average": -0.296,
+    "Upper bound (95% CI)": -0.27,
+    "Lower bound (95% CI)": -0.351
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1857,
+    "Median temperature anomaly from 1961-1990 average": -0.528,
+    "Upper bound (95% CI)": -0.501,
+    "Lower bound (95% CI)": -0.58
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1858,
+    "Median temperature anomaly from 1961-1990 average": -0.478,
+    "Upper bound (95% CI)": -0.453,
+    "Lower bound (95% CI)": -0.53
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1859,
+    "Median temperature anomaly from 1961-1990 average": -0.358,
+    "Upper bound (95% CI)": -0.332,
+    "Lower bound (95% CI)": -0.414
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1860,
+    "Median temperature anomaly from 1961-1990 average": -0.296,
+    "Upper bound (95% CI)": -0.268,
+    "Lower bound (95% CI)": -0.35
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1861,
+    "Median temperature anomaly from 1961-1990 average": -0.446,
+    "Upper bound (95% CI)": -0.413,
+    "Lower bound (95% CI)": -0.493
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1862,
+    "Median temperature anomaly from 1961-1990 average": -0.386,
+    "Upper bound (95% CI)": -0.353,
+    "Lower bound (95% CI)": -0.433
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1863,
+    "Median temperature anomaly from 1961-1990 average": -0.395,
+    "Upper bound (95% CI)": -0.361,
+    "Lower bound (95% CI)": -0.448
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1864,
+    "Median temperature anomaly from 1961-1990 average": -0.503,
+    "Upper bound (95% CI)": -0.471,
+    "Lower bound (95% CI)": -0.552
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1865,
+    "Median temperature anomaly from 1961-1990 average": -0.197,
+    "Upper bound (95% CI)": -0.166,
+    "Lower bound (95% CI)": -0.245
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1866,
+    "Median temperature anomaly from 1961-1990 average": -0.258,
+    "Upper bound (95% CI)": -0.218,
+    "Lower bound (95% CI)": -0.306
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1867,
+    "Median temperature anomaly from 1961-1990 average": -0.15,
+    "Upper bound (95% CI)": -0.113,
+    "Lower bound (95% CI)": -0.204
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1868,
+    "Median temperature anomaly from 1961-1990 average": -0.159,
+    "Upper bound (95% CI)": -0.125,
+    "Lower bound (95% CI)": -0.216
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1869,
+    "Median temperature anomaly from 1961-1990 average": -0.158,
+    "Upper bound (95% CI)": -0.132,
+    "Lower bound (95% CI)": -0.207
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1870,
+    "Median temperature anomaly from 1961-1990 average": -0.235,
+    "Upper bound (95% CI)": -0.211,
+    "Lower bound (95% CI)": -0.276
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1871,
+    "Median temperature anomaly from 1961-1990 average": -0.17,
+    "Upper bound (95% CI)": -0.142,
+    "Lower bound (95% CI)": -0.213
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1872,
+    "Median temperature anomaly from 1961-1990 average": -0.323,
+    "Upper bound (95% CI)": -0.295,
+    "Lower bound (95% CI)": -0.36
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1873,
+    "Median temperature anomaly from 1961-1990 average": -0.302,
+    "Upper bound (95% CI)": -0.271,
+    "Lower bound (95% CI)": -0.337
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1874,
+    "Median temperature anomaly from 1961-1990 average": -0.482,
+    "Upper bound (95% CI)": -0.442,
+    "Lower bound (95% CI)": -0.522
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1875,
+    "Median temperature anomaly from 1961-1990 average": -0.237,
+    "Upper bound (95% CI)": -0.201,
+    "Lower bound (95% CI)": -0.289
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1876,
+    "Median temperature anomaly from 1961-1990 average": -0.331,
+    "Upper bound (95% CI)": -0.291,
+    "Lower bound (95% CI)": -0.386
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1877,
+    "Median temperature anomaly from 1961-1990 average": 0.092,
+    "Upper bound (95% CI)": 0.138,
+    "Lower bound (95% CI)": 0.035
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1878,
+    "Median temperature anomaly from 1961-1990 average": 0.215,
+    "Upper bound (95% CI)": 0.256,
+    "Lower bound (95% CI)": 0.156
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1879,
+    "Median temperature anomaly from 1961-1990 average": -0.215,
+    "Upper bound (95% CI)": -0.181,
+    "Lower bound (95% CI)": -0.27
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1880,
+    "Median temperature anomaly from 1961-1990 average": -0.215,
+    "Upper bound (95% CI)": -0.179,
+    "Lower bound (95% CI)": -0.273
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1881,
+    "Median temperature anomaly from 1961-1990 average": -0.052,
+    "Upper bound (95% CI)": -0.017,
+    "Lower bound (95% CI)": -0.106
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1882,
+    "Median temperature anomaly from 1961-1990 average": -0.24,
+    "Upper bound (95% CI)": -0.208,
+    "Lower bound (95% CI)": -0.296
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1883,
+    "Median temperature anomaly from 1961-1990 average": -0.312,
+    "Upper bound (95% CI)": -0.282,
+    "Lower bound (95% CI)": -0.361
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1884,
+    "Median temperature anomaly from 1961-1990 average": -0.379,
+    "Upper bound (95% CI)": -0.349,
+    "Lower bound (95% CI)": -0.424
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1885,
+    "Median temperature anomaly from 1961-1990 average": -0.288,
+    "Upper bound (95% CI)": -0.262,
+    "Lower bound (95% CI)": -0.34
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1886,
+    "Median temperature anomaly from 1961-1990 average": -0.337,
+    "Upper bound (95% CI)": -0.311,
+    "Lower bound (95% CI)": -0.385
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1887,
+    "Median temperature anomaly from 1961-1990 average": -0.444,
+    "Upper bound (95% CI)": -0.415,
+    "Lower bound (95% CI)": -0.493
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1888,
+    "Median temperature anomaly from 1961-1990 average": -0.079,
+    "Upper bound (95% CI)": -0.049,
+    "Lower bound (95% CI)": -0.127
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1889,
+    "Median temperature anomaly from 1961-1990 average": -0.053,
+    "Upper bound (95% CI)": -0.016,
+    "Lower bound (95% CI)": -0.113
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1890,
+    "Median temperature anomaly from 1961-1990 average": -0.513,
+    "Upper bound (95% CI)": -0.468,
+    "Lower bound (95% CI)": -0.58
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1891,
+    "Median temperature anomaly from 1961-1990 average": -0.235,
+    "Upper bound (95% CI)": -0.185,
+    "Lower bound (95% CI)": -0.309
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1892,
+    "Median temperature anomaly from 1961-1990 average": -0.458,
+    "Upper bound (95% CI)": -0.402,
+    "Lower bound (95% CI)": -0.538
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1893,
+    "Median temperature anomaly from 1961-1990 average": -0.498,
+    "Upper bound (95% CI)": -0.443,
+    "Lower bound (95% CI)": -0.573
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1894,
+    "Median temperature anomaly from 1961-1990 average": -0.485,
+    "Upper bound (95% CI)": -0.426,
+    "Lower bound (95% CI)": -0.564
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1895,
+    "Median temperature anomaly from 1961-1990 average": -0.264,
+    "Upper bound (95% CI)": -0.207,
+    "Lower bound (95% CI)": -0.335
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1896,
+    "Median temperature anomaly from 1961-1990 average": -0.016,
+    "Upper bound (95% CI)": 0.034,
+    "Lower bound (95% CI)": -0.083
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1897,
+    "Median temperature anomaly from 1961-1990 average": 0.006,
+    "Upper bound (95% CI)": 0.055,
+    "Lower bound (95% CI)": -0.057
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1898,
+    "Median temperature anomaly from 1961-1990 average": -0.345,
+    "Upper bound (95% CI)": -0.296,
+    "Lower bound (95% CI)": -0.412
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1899,
+    "Median temperature anomaly from 1961-1990 average": -0.207,
+    "Upper bound (95% CI)": -0.147,
+    "Lower bound (95% CI)": -0.279
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1900,
+    "Median temperature anomaly from 1961-1990 average": 0.023,
+    "Upper bound (95% CI)": 0.083,
+    "Lower bound (95% CI)": -0.043
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1901,
+    "Median temperature anomaly from 1961-1990 average": -0.127,
+    "Upper bound (95% CI)": -0.07,
+    "Lower bound (95% CI)": -0.202
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1902,
+    "Median temperature anomaly from 1961-1990 average": -0.177,
+    "Upper bound (95% CI)": -0.127,
+    "Lower bound (95% CI)": -0.242
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1903,
+    "Median temperature anomaly from 1961-1990 average": -0.359,
+    "Upper bound (95% CI)": -0.307,
+    "Lower bound (95% CI)": -0.425
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1904,
+    "Median temperature anomaly from 1961-1990 average": -0.494,
+    "Upper bound (95% CI)": -0.435,
+    "Lower bound (95% CI)": -0.556
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1905,
+    "Median temperature anomaly from 1961-1990 average": -0.262,
+    "Upper bound (95% CI)": -0.199,
+    "Lower bound (95% CI)": -0.325
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1906,
+    "Median temperature anomaly from 1961-1990 average": -0.241,
+    "Upper bound (95% CI)": -0.184,
+    "Lower bound (95% CI)": -0.297
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1907,
+    "Median temperature anomaly from 1961-1990 average": -0.366,
+    "Upper bound (95% CI)": -0.322,
+    "Lower bound (95% CI)": -0.423
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1908,
+    "Median temperature anomaly from 1961-1990 average": -0.479,
+    "Upper bound (95% CI)": -0.424,
+    "Lower bound (95% CI)": -0.533
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1909,
+    "Median temperature anomaly from 1961-1990 average": -0.453,
+    "Upper bound (95% CI)": -0.404,
+    "Lower bound (95% CI)": -0.504
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1910,
+    "Median temperature anomaly from 1961-1990 average": -0.501,
+    "Upper bound (95% CI)": -0.455,
+    "Lower bound (95% CI)": -0.559
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1911,
+    "Median temperature anomaly from 1961-1990 average": -0.479,
+    "Upper bound (95% CI)": -0.423,
+    "Lower bound (95% CI)": -0.535
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1912,
+    "Median temperature anomaly from 1961-1990 average": -0.237,
+    "Upper bound (95% CI)": -0.19,
+    "Lower bound (95% CI)": -0.293
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1913,
+    "Median temperature anomaly from 1961-1990 average": -0.361,
+    "Upper bound (95% CI)": -0.312,
+    "Lower bound (95% CI)": -0.412
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1914,
+    "Median temperature anomaly from 1961-1990 average": -0.198,
+    "Upper bound (95% CI)": -0.146,
+    "Lower bound (95% CI)": -0.255
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1915,
+    "Median temperature anomaly from 1961-1990 average": -0.027,
+    "Upper bound (95% CI)": 0.038,
+    "Lower bound (95% CI)": -0.091
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1916,
+    "Median temperature anomaly from 1961-1990 average": -0.386,
+    "Upper bound (95% CI)": -0.323,
+    "Lower bound (95% CI)": -0.449
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1917,
+    "Median temperature anomaly from 1961-1990 average": -0.539,
+    "Upper bound (95% CI)": -0.47,
+    "Lower bound (95% CI)": -0.607
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1918,
+    "Median temperature anomaly from 1961-1990 average": -0.334,
+    "Upper bound (95% CI)": -0.262,
+    "Lower bound (95% CI)": -0.411
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1919,
+    "Median temperature anomaly from 1961-1990 average": -0.204,
+    "Upper bound (95% CI)": -0.131,
+    "Lower bound (95% CI)": -0.267
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1920,
+    "Median temperature anomaly from 1961-1990 average": -0.272,
+    "Upper bound (95% CI)": -0.209,
+    "Lower bound (95% CI)": -0.334
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1921,
+    "Median temperature anomaly from 1961-1990 average": -0.243,
+    "Upper bound (95% CI)": -0.193,
+    "Lower bound (95% CI)": -0.301
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1922,
+    "Median temperature anomaly from 1961-1990 average": -0.296,
+    "Upper bound (95% CI)": -0.241,
+    "Lower bound (95% CI)": -0.35
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1923,
+    "Median temperature anomaly from 1961-1990 average": -0.251,
+    "Upper bound (95% CI)": -0.195,
+    "Lower bound (95% CI)": -0.311
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1924,
+    "Median temperature anomaly from 1961-1990 average": -0.224,
+    "Upper bound (95% CI)": -0.171,
+    "Lower bound (95% CI)": -0.283
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1925,
+    "Median temperature anomaly from 1961-1990 average": -0.212,
+    "Upper bound (95% CI)": -0.158,
+    "Lower bound (95% CI)": -0.28
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1926,
+    "Median temperature anomaly from 1961-1990 average": 0.044,
+    "Upper bound (95% CI)": 0.092,
+    "Lower bound (95% CI)": -0.018
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1927,
+    "Median temperature anomaly from 1961-1990 average": -0.113,
+    "Upper bound (95% CI)": -0.061,
+    "Lower bound (95% CI)": -0.169
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1928,
+    "Median temperature anomaly from 1961-1990 average": -0.129,
+    "Upper bound (95% CI)": -0.08,
+    "Lower bound (95% CI)": -0.194
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1929,
+    "Median temperature anomaly from 1961-1990 average": -0.244,
+    "Upper bound (95% CI)": -0.195,
+    "Lower bound (95% CI)": -0.31
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1930,
+    "Median temperature anomaly from 1961-1990 average": -0.076,
+    "Upper bound (95% CI)": -0.025,
+    "Lower bound (95% CI)": -0.145
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1931,
+    "Median temperature anomaly from 1961-1990 average": 0.068,
+    "Upper bound (95% CI)": 0.121,
+    "Lower bound (95% CI)": 0
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1932,
+    "Median temperature anomaly from 1961-1990 average": -0.11,
+    "Upper bound (95% CI)": -0.061,
+    "Lower bound (95% CI)": -0.175
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1933,
+    "Median temperature anomaly from 1961-1990 average": -0.204,
+    "Upper bound (95% CI)": -0.154,
+    "Lower bound (95% CI)": -0.267
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1934,
+    "Median temperature anomaly from 1961-1990 average": -0.189,
+    "Upper bound (95% CI)": -0.143,
+    "Lower bound (95% CI)": -0.252
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1935,
+    "Median temperature anomaly from 1961-1990 average": -0.133,
+    "Upper bound (95% CI)": -0.088,
+    "Lower bound (95% CI)": -0.192
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1936,
+    "Median temperature anomaly from 1961-1990 average": -0.095,
+    "Upper bound (95% CI)": -0.051,
+    "Lower bound (95% CI)": -0.153
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1937,
+    "Median temperature anomaly from 1961-1990 average": 0.02,
+    "Upper bound (95% CI)": 0.063,
+    "Lower bound (95% CI)": -0.038
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1938,
+    "Median temperature anomaly from 1961-1990 average": -0.099,
+    "Upper bound (95% CI)": -0.061,
+    "Lower bound (95% CI)": -0.154
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1939,
+    "Median temperature anomaly from 1961-1990 average": -0.107,
+    "Upper bound (95% CI)": -0.075,
+    "Lower bound (95% CI)": -0.154
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1940,
+    "Median temperature anomaly from 1961-1990 average": 0.13,
+    "Upper bound (95% CI)": 0.171,
+    "Lower bound (95% CI)": 0.077
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1941,
+    "Median temperature anomaly from 1961-1990 average": 0.241,
+    "Upper bound (95% CI)": 0.276,
+    "Lower bound (95% CI)": 0.182
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1942,
+    "Median temperature anomaly from 1961-1990 average": 0.004,
+    "Upper bound (95% CI)": 0.052,
+    "Lower bound (95% CI)": -0.066
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1943,
+    "Median temperature anomaly from 1961-1990 average": -0.119,
+    "Upper bound (95% CI)": -0.074,
+    "Lower bound (95% CI)": -0.181
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1944,
+    "Median temperature anomaly from 1961-1990 average": 0.075,
+    "Upper bound (95% CI)": 0.12,
+    "Lower bound (95% CI)": 0.014
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1945,
+    "Median temperature anomaly from 1961-1990 average": 0.05,
+    "Upper bound (95% CI)": 0.092,
+    "Lower bound (95% CI)": -0.002
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1946,
+    "Median temperature anomaly from 1961-1990 average": -0.005,
+    "Upper bound (95% CI)": 0.029,
+    "Lower bound (95% CI)": -0.062
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1947,
+    "Median temperature anomaly from 1961-1990 average": 0.014,
+    "Upper bound (95% CI)": 0.062,
+    "Lower bound (95% CI)": -0.057
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1948,
+    "Median temperature anomaly from 1961-1990 average": -0.056,
+    "Upper bound (95% CI)": -0.005,
+    "Lower bound (95% CI)": -0.131
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1949,
+    "Median temperature anomaly from 1961-1990 average": -0.113,
+    "Upper bound (95% CI)": -0.066,
+    "Lower bound (95% CI)": -0.166
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1950,
+    "Median temperature anomaly from 1961-1990 average": -0.223,
+    "Upper bound (95% CI)": -0.175,
+    "Lower bound (95% CI)": -0.274
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1951,
+    "Median temperature anomaly from 1961-1990 average": -0.049,
+    "Upper bound (95% CI)": -0.01,
+    "Lower bound (95% CI)": -0.092
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1952,
+    "Median temperature anomaly from 1961-1990 average": 0.071,
+    "Upper bound (95% CI)": 0.111,
+    "Lower bound (95% CI)": 0.03
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1953,
+    "Median temperature anomaly from 1961-1990 average": 0.072,
+    "Upper bound (95% CI)": 0.113,
+    "Lower bound (95% CI)": 0.031
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1954,
+    "Median temperature anomaly from 1961-1990 average": -0.159,
+    "Upper bound (95% CI)": -0.118,
+    "Lower bound (95% CI)": -0.2
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1955,
+    "Median temperature anomaly from 1961-1990 average": -0.284,
+    "Upper bound (95% CI)": -0.249,
+    "Lower bound (95% CI)": -0.321
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1956,
+    "Median temperature anomaly from 1961-1990 average": -0.317,
+    "Upper bound (95% CI)": -0.284,
+    "Lower bound (95% CI)": -0.352
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1957,
+    "Median temperature anomaly from 1961-1990 average": 0.014,
+    "Upper bound (95% CI)": 0.048,
+    "Lower bound (95% CI)": -0.021
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1958,
+    "Median temperature anomaly from 1961-1990 average": 0.145,
+    "Upper bound (95% CI)": 0.18,
+    "Lower bound (95% CI)": 0.114
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1959,
+    "Median temperature anomaly from 1961-1990 average": 0.043,
+    "Upper bound (95% CI)": 0.073,
+    "Lower bound (95% CI)": 0.014
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1960,
+    "Median temperature anomaly from 1961-1990 average": -0.021,
+    "Upper bound (95% CI)": 0.008,
+    "Lower bound (95% CI)": -0.05
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1961,
+    "Median temperature anomaly from 1961-1990 average": -0.032,
+    "Upper bound (95% CI)": -0.007,
+    "Lower bound (95% CI)": -0.068
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1962,
+    "Median temperature anomaly from 1961-1990 average": -0.077,
+    "Upper bound (95% CI)": -0.056,
+    "Lower bound (95% CI)": -0.106
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1963,
+    "Median temperature anomaly from 1961-1990 average": 0.076,
+    "Upper bound (95% CI)": 0.106,
+    "Lower bound (95% CI)": 0.041
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1964,
+    "Median temperature anomaly from 1961-1990 average": -0.145,
+    "Upper bound (95% CI)": -0.112,
+    "Lower bound (95% CI)": -0.172
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1965,
+    "Median temperature anomaly from 1961-1990 average": -0.073,
+    "Upper bound (95% CI)": -0.04,
+    "Lower bound (95% CI)": -0.097
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1966,
+    "Median temperature anomaly from 1961-1990 average": 0.043,
+    "Upper bound (95% CI)": 0.075,
+    "Lower bound (95% CI)": 0.018
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1967,
+    "Median temperature anomaly from 1961-1990 average": -0.147,
+    "Upper bound (95% CI)": -0.121,
+    "Lower bound (95% CI)": -0.17
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1968,
+    "Median temperature anomaly from 1961-1990 average": -0.115,
+    "Upper bound (95% CI)": -0.096,
+    "Lower bound (95% CI)": -0.135
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1969,
+    "Median temperature anomaly from 1961-1990 average": 0.246,
+    "Upper bound (95% CI)": 0.267,
+    "Lower bound (95% CI)": 0.223
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1970,
+    "Median temperature anomaly from 1961-1990 average": 0.008,
+    "Upper bound (95% CI)": 0.029,
+    "Lower bound (95% CI)": -0.017
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1971,
+    "Median temperature anomaly from 1961-1990 average": -0.29,
+    "Upper bound (95% CI)": -0.263,
+    "Lower bound (95% CI)": -0.311
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1972,
+    "Median temperature anomaly from 1961-1990 average": 0.043,
+    "Upper bound (95% CI)": 0.075,
+    "Lower bound (95% CI)": 0.024
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1973,
+    "Median temperature anomaly from 1961-1990 average": 0.064,
+    "Upper bound (95% CI)": 0.087,
+    "Lower bound (95% CI)": 0.049
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1974,
+    "Median temperature anomaly from 1961-1990 average": -0.296,
+    "Upper bound (95% CI)": -0.277,
+    "Lower bound (95% CI)": -0.313
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1975,
+    "Median temperature anomaly from 1961-1990 average": -0.332,
+    "Upper bound (95% CI)": -0.316,
+    "Lower bound (95% CI)": -0.35
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1976,
+    "Median temperature anomaly from 1961-1990 average": -0.25,
+    "Upper bound (95% CI)": -0.23,
+    "Lower bound (95% CI)": -0.266
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1977,
+    "Median temperature anomaly from 1961-1990 average": 0.021,
+    "Upper bound (95% CI)": 0.039,
+    "Lower bound (95% CI)": 0.007
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1978,
+    "Median temperature anomaly from 1961-1990 average": -0.062,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.077
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1979,
+    "Median temperature anomaly from 1961-1990 average": 0.084,
+    "Upper bound (95% CI)": 0.104,
+    "Lower bound (95% CI)": 0.062
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1980,
+    "Median temperature anomaly from 1961-1990 average": 0.136,
+    "Upper bound (95% CI)": 0.152,
+    "Lower bound (95% CI)": 0.118
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1981,
+    "Median temperature anomaly from 1961-1990 average": 0.018,
+    "Upper bound (95% CI)": 0.034,
+    "Lower bound (95% CI)": -0.001
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1982,
+    "Median temperature anomaly from 1961-1990 average": 0.065,
+    "Upper bound (95% CI)": 0.086,
+    "Lower bound (95% CI)": 0.037
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1983,
+    "Median temperature anomaly from 1961-1990 average": 0.222,
+    "Upper bound (95% CI)": 0.244,
+    "Lower bound (95% CI)": 0.198
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1984,
+    "Median temperature anomaly from 1961-1990 average": 0.003,
+    "Upper bound (95% CI)": 0.024,
+    "Lower bound (95% CI)": -0.022
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1985,
+    "Median temperature anomaly from 1961-1990 average": -0.063,
+    "Upper bound (95% CI)": -0.042,
+    "Lower bound (95% CI)": -0.086
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1986,
+    "Median temperature anomaly from 1961-1990 average": 0.048,
+    "Upper bound (95% CI)": 0.071,
+    "Lower bound (95% CI)": 0.023
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1987,
+    "Median temperature anomaly from 1961-1990 average": 0.358,
+    "Upper bound (95% CI)": 0.389,
+    "Lower bound (95% CI)": 0.332
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1988,
+    "Median temperature anomaly from 1961-1990 average": 0.205,
+    "Upper bound (95% CI)": 0.231,
+    "Lower bound (95% CI)": 0.175
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1989,
+    "Median temperature anomaly from 1961-1990 average": -0.014,
+    "Upper bound (95% CI)": 0.022,
+    "Lower bound (95% CI)": -0.046
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1990,
+    "Median temperature anomaly from 1961-1990 average": 0.206,
+    "Upper bound (95% CI)": 0.244,
+    "Lower bound (95% CI)": 0.17
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1991,
+    "Median temperature anomaly from 1961-1990 average": 0.206,
+    "Upper bound (95% CI)": 0.243,
+    "Lower bound (95% CI)": 0.166
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1992,
+    "Median temperature anomaly from 1961-1990 average": 0.109,
+    "Upper bound (95% CI)": 0.15,
+    "Lower bound (95% CI)": 0.068
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1993,
+    "Median temperature anomaly from 1961-1990 average": 0.162,
+    "Upper bound (95% CI)": 0.204,
+    "Lower bound (95% CI)": 0.121
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1994,
+    "Median temperature anomaly from 1961-1990 average": 0.159,
+    "Upper bound (95% CI)": 0.201,
+    "Lower bound (95% CI)": 0.113
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1995,
+    "Median temperature anomaly from 1961-1990 average": 0.285,
+    "Upper bound (95% CI)": 0.33,
+    "Lower bound (95% CI)": 0.239
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1996,
+    "Median temperature anomaly from 1961-1990 average": 0.193,
+    "Upper bound (95% CI)": 0.233,
+    "Lower bound (95% CI)": 0.15
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1997,
+    "Median temperature anomaly from 1961-1990 average": 0.368,
+    "Upper bound (95% CI)": 0.409,
+    "Lower bound (95% CI)": 0.321
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1998,
+    "Median temperature anomaly from 1961-1990 average": 0.564,
+    "Upper bound (95% CI)": 0.606,
+    "Lower bound (95% CI)": 0.515
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 1999,
+    "Median temperature anomaly from 1961-1990 average": 0.158,
+    "Upper bound (95% CI)": 0.202,
+    "Lower bound (95% CI)": 0.106
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2000,
+    "Median temperature anomaly from 1961-1990 average": 0.17,
+    "Upper bound (95% CI)": 0.22,
+    "Lower bound (95% CI)": 0.128
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2001,
+    "Median temperature anomaly from 1961-1990 average": 0.35,
+    "Upper bound (95% CI)": 0.401,
+    "Lower bound (95% CI)": 0.305
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2002,
+    "Median temperature anomaly from 1961-1990 average": 0.469,
+    "Upper bound (95% CI)": 0.513,
+    "Lower bound (95% CI)": 0.422
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2003,
+    "Median temperature anomaly from 1961-1990 average": 0.507,
+    "Upper bound (95% CI)": 0.552,
+    "Lower bound (95% CI)": 0.46
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2004,
+    "Median temperature anomaly from 1961-1990 average": 0.43,
+    "Upper bound (95% CI)": 0.473,
+    "Lower bound (95% CI)": 0.383
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2005,
+    "Median temperature anomaly from 1961-1990 average": 0.487,
+    "Upper bound (95% CI)": 0.532,
+    "Lower bound (95% CI)": 0.438
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2006,
+    "Median temperature anomaly from 1961-1990 average": 0.449,
+    "Upper bound (95% CI)": 0.495,
+    "Lower bound (95% CI)": 0.399
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2007,
+    "Median temperature anomaly from 1961-1990 average": 0.365,
+    "Upper bound (95% CI)": 0.408,
+    "Lower bound (95% CI)": 0.32
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2008,
+    "Median temperature anomaly from 1961-1990 average": 0.274,
+    "Upper bound (95% CI)": 0.318,
+    "Lower bound (95% CI)": 0.226
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2009,
+    "Median temperature anomaly from 1961-1990 average": 0.541,
+    "Upper bound (95% CI)": 0.584,
+    "Lower bound (95% CI)": 0.492
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2010,
+    "Median temperature anomaly from 1961-1990 average": 0.535,
+    "Upper bound (95% CI)": 0.579,
+    "Lower bound (95% CI)": 0.485
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2011,
+    "Median temperature anomaly from 1961-1990 average": 0.243,
+    "Upper bound (95% CI)": 0.287,
+    "Lower bound (95% CI)": 0.197
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2012,
+    "Median temperature anomaly from 1961-1990 average": 0.346,
+    "Upper bound (95% CI)": 0.391,
+    "Lower bound (95% CI)": 0.3
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2013,
+    "Median temperature anomaly from 1961-1990 average": 0.404,
+    "Upper bound (95% CI)": 0.448,
+    "Lower bound (95% CI)": 0.356
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2014,
+    "Median temperature anomaly from 1961-1990 average": 0.516,
+    "Upper bound (95% CI)": 0.562,
+    "Lower bound (95% CI)": 0.472
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2015,
+    "Median temperature anomaly from 1961-1990 average": 0.737,
+    "Upper bound (95% CI)": 0.781,
+    "Lower bound (95% CI)": 0.69
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2016,
+    "Median temperature anomaly from 1961-1990 average": 0.763,
+    "Upper bound (95% CI)": 0.806,
+    "Lower bound (95% CI)": 0.713
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2017,
+    "Median temperature anomaly from 1961-1990 average": 0.563,
+    "Upper bound (95% CI)": 0.607,
+    "Lower bound (95% CI)": 0.514
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2018,
+    "Median temperature anomaly from 1961-1990 average": 0.473,
+    "Upper bound (95% CI)": 0.517,
+    "Lower bound (95% CI)": 0.424
+  },
+  {
+    "Entity": "Tropics",
+    "Year": 2019,
+    "Median temperature anomaly from 1961-1990 average": 0.656,
+    "Upper bound (95% CI)": 0.703,
+    "Lower bound (95% CI)": 0.607
+  }
+]
